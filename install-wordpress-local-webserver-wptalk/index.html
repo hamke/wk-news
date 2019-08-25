@@ -1,0 +1,530 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+
+
+
+
+
+
+<head><meta name="generator" content="Hexo 3.9.0">
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="preconnect" href="//www.googletagmanager.com">
+	<link rel="preconnect" href="//www.google-analytics.com">
+	<link rel="preconnect" href="//unpkg.com">
+	<link rel="preload" href="https://hellotblog.files.wordpress.com/2019/06/sample-bg-01-800.jpg" as="image">
+
+	<title>[필수] 내 컴퓨터에서 워드프레스 운영하는 방법 : 로컬 웹서버 설치하기 - 워드프레스톡 | 워드프레스톡(WP-TALK) 매거진</title>
+
+	<meta name="HandheldFriendly" content="True">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
+	<meta name="author" content="워드프레스톡">
+	<meta name="description" content="내 컴퓨터에서 워드프레스를 간편하게 설치하고 운영할 수 있는 로컬 웹서버 설치하는 방법을 소개해 드립니다.">
+
+	
+	<meta name="keywords" content>
+	
+
+	
+	<link rel="shortcut icon" href="https://www.wp-talk.com/assets/img/favicon.ico">
+	<link rel="apple-touch-icon" href="https://www.wp-talk.com/assets/img/favicon.ico">
+	
+
+	
+	<meta name="theme-color" content="#3c484e">
+	<meta name="msapplication-TileColor" content="#3c484e">
+	
+
+	
+
+	
+
+	<meta property="og:site_name" content="워드프레스톡(WP-TALK) 매거진">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="[필수] 내 컴퓨터에서 워드프레스 운영하는 방법 : 로컬 웹서버 설치하기 - 워드프레스톡 | 워드프레스톡(WP-TALK) 매거진">
+	<meta property="og:description" content="내 컴퓨터에서 워드프레스를 간편하게 설치하고 운영할 수 있는 로컬 웹서버 설치하는 방법을 소개해 드립니다.">
+	<meta property="og:url" content="https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/">
+
+	
+	<meta property="article:published_time" content="2019-08-25T18:08:00+08:00">
+	<meta property="article:author" content="워드프레스톡">
+	<meta property="article:published_first" content="워드프레스톡(WP-TALK) 매거진, /install-wordpress-local-webserver-wptalk/">
+	
+
+	<script src="/js/jquery-3.4.1.min.js"></script>
+	<script src="/js/bootstrap/4.1.1/bootstrap.min.js"></script>
+
+	
+
+	<link rel="stylesheet" href="/css/allinonecss.min.css">
+	<link rel="stylesheet" href="/css/custom/style.css">
+	<link rel="stylesheet" href="/css/custom/all.css">
+	<link rel="stylesheet" href="/css/custom/font-awesome-animation.min.css">
+
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+	
+
+	
+<link rel="canonical" href="https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/">
+
+
+
+
+
+
+</head>
+
+<body class="post-template">
+	<div class="site-wrapper">
+		
+
+
+
+
+<header class="site-header post-site-header outer">
+    <div class="inner">
+        
+<nav class="site-nav">
+    <div class="site-nav-left">
+        <ul class="nav">
+            <li>
+                
+                <a href="/" title="Home">HOME</a>
+                
+            </li>
+                
+                
+            <li>
+                <a href="/tags/꿀팁/" title="꿀팁">꿀팁</a>
+            </li>
+                
+                
+            <li>
+                <a href="https://www.wp-talk.com/119/" target="_blank">워드프레스 문제 해결</a>
+            </li>
+            <li>
+                <a href="https://www.wp-talk.com/lesson/" target="_blank">워드프레스 교육/레슨</a>
+            </li>
+            <li>
+                <a href="https://www.wp-talk.com/app/child-theme-builder/" target="_blank">차일드테마 온라인 빌더</a>
+            </li>
+            <li>
+                <a href="https://www.wp-talk.com/kakao/" target="_blank">카카오톡 문의</a>
+            </li>
+        </ul>
+    </div>
+    
+    <div class="search-button-area">
+        <a href="#search" class="search-button">검색어 입력</a>
+    </div>
+    
+    <div class="site-nav-right">
+        
+        <a href="#search" class="search-button">검색</a>
+        
+        
+<div class="social-links">
+    
+    
+    
+    
+    
+    
+    
+</div>
+    </div>
+</nav>
+
+    </div>
+</header>
+
+
+
+  <div id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+      <header class="post-full-header">
+        <h1 class="post-full-title">[필수] 내 컴퓨터에서 워드프레스 운영하는 방법 : 로컬 웹서버 설치하기 - 워드프레스톡</h1>
+        <div class="post-full-meta">
+          <time class="post-full-meta-date" datetime="2019-08-25T09:23:41.000Z">
+            2019-08-25
+          </time>
+          
+            <span class="date-divider">/</span>
+            
+              <a href="/categories/꿀팁/">꿀팁</a>&nbsp;&nbsp;
+            
+          
+        </div>
+      </header>
+      <div class="post-full ">
+        
+          <figure class="post-full-image" style="background-image: url(https://hellotblog.files.wordpress.com/2018/05/trendtalk-website-development-05.jpg)"></figure>
+        
+        <div class="post-full-content">
+          <article id="lightgallery" class="markdown-body">
+            <div class="above-content">
+              <div class="post-wptalk-logo">
+                <a href="https://www.wp-talk.com/kakao/" target="_blank">
+                  <img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡(WP-TALK.COM)">
+                </a>
+              </div>
+              <div class="updated-post-date">
+                <i class="fas fa-clock"></i>
+                업데이트 :
+                <span class="date-block">
+                  <span class="post-year"></span>-<span class="post-month-digits"></span>-01</span>
+              </div>
+            </div>
+            <hr>
+            <ul>
+<li><a href="#index-00">자신의 운영 체제에 맞는 방법 선택하기</a></li>
+<li><a href="#index-01">1. 웹서버 설치 방법 : 윈도우OS(WindowsOS)</a></li>
+<li><a href="#index-02">2. 웹서버 설치 방법 : 맥OS(MacOS)</a></li>
+<li><a href="#index-03">3. 웹서버 설치 방법 : 리눅스(Linux)</a></li>
+<li><a href="#index-epilogue">맺음말</a></li>
+<li><a href="#recommendation">도움이 될 만한 연관 추천 글</a></li>
+</ul>
+<hr>
+<p><a name="index-00"></a></p>
+<h2 id="◼︎-자신의-운영-체제에-맞는-방법-선택하기"><a href="#◼︎-자신의-운영-체제에-맞는-방법-선택하기" class="headerlink" title="◼︎ 자신의 운영 체제에 맞는 방법 선택하기"></a>◼︎ 자신의 운영 체제에 맞는 방법 선택하기</h2><p>사용 중인 컴퓨터의 운영 체제에 따라 웹서버 설치 방법이 상이하니, 자신의 운영 체제에 맞는 방법을 선택해서 웹서버를 설치하시기를 바랍니다.</p>
+<div class="embed-video"><iframe src="https://www.youtube.com/embed/ThlyDSM0FNU" frameborder="0" allowfullscreen></iframe></div>
+
+<hr>
+<p><a name="index-01"></a></p>
+<h2 id="1-웹서버-설치-방법-윈도우OS-WindowsOS"><a href="#1-웹서버-설치-방법-윈도우OS-WindowsOS" class="headerlink" title="1. 웹서버 설치 방법 : 윈도우OS(WindowsOS)"></a>1. 웹서버 설치 방법 : 윈도우OS(WindowsOS)</h2><p>윈도우OS 기반의 컴퓨터를 사용 중이라면 아래 영상의 내용을 따라서 웹서버를 설치하실 수 있습니다.</p>
+<hr>
+<h3 id="1-윈도우OS에-웹서버-설치하기"><a href="#1-윈도우OS에-웹서버-설치하기" class="headerlink" title="(1) 윈도우OS에 웹서버 설치하기"></a>(1) 윈도우OS에 웹서버 설치하기</h3><div class="embed-video"><iframe src="https://www.youtube.com/embed/Bvzzee7-kuQ" frameborder="0" allowfullscreen></iframe></div>
+
+<hr>
+<h3 id="2-웹서버와-HTTP"><a href="#2-웹서버와-HTTP" class="headerlink" title="(2) 웹서버와 HTTP"></a>(2) 웹서버와 HTTP</h3><div class="embed-video"><iframe src="https://www.youtube.com/embed/had7IqJHEKM" frameborder="0" allowfullscreen></iframe></div>
+
+<hr>
+<h3 id="3-웹브라우저와-웹서버의-통신"><a href="#3-웹브라우저와-웹서버의-통신" class="headerlink" title="(3) 웹브라우저와 웹서버의 통신"></a>(3) 웹브라우저와 웹서버의 통신</h3><div class="embed-video"><iframe src="https://www.youtube.com/embed/gde0uNwMSa4" frameborder="0" allowfullscreen></iframe></div>
+
+<hr>
+<p><a name="index-02"></a></p>
+<h2 id="◼︎-2-웹서버-설치-방법-맥OS-MacOS"><a href="#◼︎-2-웹서버-설치-방법-맥OS-MacOS" class="headerlink" title="◼︎ 2. 웹서버 설치 방법 : 맥OS(MacOS)"></a>◼︎ 2. 웹서버 설치 방법 : 맥OS(MacOS)</h2><p>맥OS 기반의 컴퓨터를 사용 중이라면 아래 영상의 내용을 따라서 웹서버를 설치하실 수 있습니다.</p>
+<hr>
+<h3 id="1-맥OS에-웹서버-설치하기"><a href="#1-맥OS에-웹서버-설치하기" class="headerlink" title="(1) 맥OS에 웹서버 설치하기"></a>(1) 맥OS에 웹서버 설치하기</h3><div class="embed-video"><iframe src="https://www.youtube.com/embed/roETNgQf3x8" frameborder="0" allowfullscreen></iframe></div>
+
+<hr>
+<h3 id="2-웹서버와-HTTP-1"><a href="#2-웹서버와-HTTP-1" class="headerlink" title="(2) 웹서버와 HTTP"></a>(2) 웹서버와 HTTP</h3><div class="embed-video"><iframe src="https://www.youtube.com/embed/fSXQh4ypskU" frameborder="0" allowfullscreen></iframe></div>
+
+<hr>
+<h3 id="3-웹브라우저와-웹서버의-통신-1"><a href="#3-웹브라우저와-웹서버의-통신-1" class="headerlink" title="(3) 웹브라우저와 웹서버의 통신"></a>(3) 웹브라우저와 웹서버의 통신</h3><div class="embed-video"><iframe src="https://www.youtube.com/embed/1i9_plf2g7A" frameborder="0" allowfullscreen></iframe></div>
+
+<hr>
+<p><a name="index-03"></a></p>
+<h2 id="◼︎-3-웹서버-설치-방법-리눅스-Linux"><a href="#◼︎-3-웹서버-설치-방법-리눅스-Linux" class="headerlink" title="◼︎ 3. 웹서버 설치 방법 : 리눅스(Linux)"></a>◼︎ 3. 웹서버 설치 방법 : 리눅스(Linux)</h2><p>리눅스OS 기반의 컴퓨터를 사용 중이라면 아래 영상의 내용을 따라서 웹서버를 설치하실 수 있습니다.</p>
+<hr>
+<h3 id="리눅스OS에-웹서버-설치"><a href="#리눅스OS에-웹서버-설치" class="headerlink" title="리눅스OS에 웹서버 설치"></a>리눅스OS에 웹서버 설치</h3><div class="embed-video"><iframe src="https://www.youtube.com/embed/hMsvyzb2EE0" frameborder="0" allowfullscreen></iframe></div>
+
+<hr>
+<p><a name="index-epilogue"></a></p>
+<h2 id="◼︎-맺음말"><a href="#◼︎-맺음말" class="headerlink" title="◼︎ 맺음말"></a>◼︎ 맺음말</h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2019/01/wptalk-com-cover-01.png" style="max-width:100%;" alt="워드프레스톡 매거진"></a></center>
+
+<p><strong>워드프레스톡(WP-TALK.COM)</strong>이 소개해 드리는 방법들을 통해, 워드프레스를 보다 편리하게 활용하는데 도움이 되기를 바랍니다.</p>
+<p><strong>워드프레스(WordPress) 사이트 개선 및 각종 문제 해결, 워드프레스 핵심 원리 교육, 코딩을 통한 온라인 업무 자동화(Task Automation)</strong> 등에 대한 문의 사항이 있으시면, <a href="https://www.wp-talk.com/kakao/" target="_blank">카카오톡</a>으로 연락 주세요.</p>
+<hr>
+<p><a name="recommendation"></a></p>
+<h2 id="◼︎-도움이-될-만한-연관-추천-글"><a href="#◼︎-도움이-될-만한-연관-추천-글" class="headerlink" title="◼︎ 도움이 될 만한 연관 추천 글"></a>◼︎ 도움이 될 만한 연관 추천 글</h2><center><a href="https://www.wp-talk.com/lesson/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2019/03/classroom-online-wptalk-00-800x500.png" style="max-width:100%;" alt="워드프레스톡 온라인 레슨 강좌 및 강의 교육"></a></center>
+
+<ul>
+<li><p><a href="https://www.wp-talk.com/lesson/" target="_blank">워드프레스 핵심 원리 강의 레슨 및 교육 강좌 문의 (1:1개인/그룹/기업, <span class="post-year"></span>년 <span class="post-month"></span>월) - 워드프레스톡</a></p>
+</li>
+<li><p><a href="https://www.wp-talk.com/119/" target="_blank">워드프레스 관련 각종 문제 및 오류(에러)를 스스로 해결할 수 없을 때 추천 방법</a></p>
+</li>
+<li><p><a href="https://www.wp-talk.com/must-read/" target="_blank">워드프레스(WP) 초보자가 알아두면 좋은 추천 글 모음</a></p>
+</li>
+<li><p><a href="https://www.wp-talk.com/hosting/" target="_blank">워드프레스(WP) 설치에 최적화된 추천 호스팅 서비스 모음</a></p>
+</li>
+<li><p><a href="https://news.wp-talk.com/wordpress-rest-api-fetch-content" target="_blank">워드프레스 실시간 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API)</a></p>
+</li>
+<li><p><a href="https://school.wp-talk.com/item/wordpress-beginner-must-know-mistakes/" target="_blank">워드프레스(WP) 초보자들이 흔히 하는 실수 및 필수 상식</a></p>
+</li>
+<li><p><a href="https://school.wp-talk.com/item/wordpress-plugins-why-you-should-not-use/" target="_blank">워드프레스(WP) 플러그인을 가급적 사용하면 안 되는 이유 및 추천 방법</a></p>
+</li>
+<li><p><a href="https://coupa.ng/bgHJQN" target="_blank">워드프레스(WP) 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a></p>
+</li>
+</ul>
+<hr>
+<p><strong>워드프레스톡(WP-Talk)</strong>은 워드프레스(WP) 웹사이트에 대한 문제가 있을 시, <strong>문제를 신속하게 진단하고 해결</strong>해 드립니다. 서비스에 대한 문의 사항이 있으시면, <a href="https://www.wp-talk.com/kakao/" target="_blank">카카오톡</a>으로 연락 주세요.</p>
+<hr>
+<center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2019/08/wptalk-logo-03-120x120.png" style="max-width:100%;" alt="워드프레스톡 매거진(WP-TALK)"></a></center>
+
+<hr>
+<center>저작권자 ⓒ 워드프레스톡 ( <a href="https://www.wp-talk.com/kakao/" target="_blank">news.wp-talk.com</a> ) | 무단 전재 및 재배포 금지</center>
+
+<hr>
+
+          </article>
+          <ul class="tags-postTags">
+            
+              <li>
+                <a href="/tags/꿀팁/" rel="tag">#
+                  꿀팁</a>
+              </li>
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    
+    <nav id="gobottom" class="pagination">
+      
+        <a class="prev-post" title="[필수] 워드프레스 차일드테마(Child Theme) 기능을 설정하는 방법 - 워드프레스톡 매거진" href="/wordpress-child-theme-setting-wptalk/">
+          ←
+          [필수] 워드프레스 차일드테마(Child Theme) 기능을 설정하는 방법 - 워드프레스톡 매거진
+        </a>
+      
+      <span class="prev-next-post">·</span>
+      
+        <a class="next-post" title="[공지] 워드프레스 핵심 원리 온라인 강의 레슨 및 교육 강좌 문의 (1:1개인/그룹/기업) - 워드프레스톡" href="/wordpress-lesson/">
+          [공지] 워드프레스 핵심 원리 온라인 강의 레슨 및 교육 강좌 문의 (1:1개인/그룹/기업) - 워드프레스톡
+          →
+        </a>
+      
+    </nav>
+
+    
+  </div>
+  
+
+
+	</div>
+	
+
+
+<aside class="read-next outer">
+    <div class="inner">
+        <div class="read-next-feed">
+            
+            
+
+<article class="read-next-card" style="background-image: url(https://hellotblog.files.wordpress.com/2019/06/sample-bg-01-800.jpg)">
+  <header class="read-next-card-header">
+    <small class="read-next-card-header-sitetitle">&mdash; 워드프레스톡(WP-TALK) 매거진 &mdash;</small>
+    <h3 class="read-next-card-header-title">최신 글 모음</h3>
+  </header>
+  <div class="read-next-divider">
+    <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 24 24">
+      <path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/>
+    </svg>
+  </div>
+  <div class="read-next-card-content">
+    <ul>
+      
+      
+      
+      <li>
+        <a href="/wordpress-rest-api-fetch-content/">[꿀팁] 워드프레스 실시간 외부 컨텐츠를 내 웹사이트로 가져 오는 방법 (REST API) - 워드프레스톡</a>
+      </li>
+      
+      
+      
+      <li>
+        <a href="/themeforest-wordpress-free-month-themes/">[꿀팁] 워드프레스(WP) 최신 테마 및 플러그인 무료로 다운로드하는 방법 : 테마포레스트(Themeforest) - 워드프레스톡</a>
+      </li>
+      
+      
+      
+      <li>
+        <a href="/wordpress-install-free-hosting-000webhost/">[꿀팁] 워드프레스(WP) 무료 호스팅으로 간편하게 설치하는 방법 : 000WebHost - 워드프레스톡</a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </ul>
+  </div>
+  <footer class="read-next-card-footer">
+    <a href="/archives">  더 보기  → </a>
+  </footer>
+</article>
+
+
+            
+            
+            
+        </div>
+        <div class="adsense-above-footer">
+  				<!-- MKTTALK : Middle -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1087484447886876" data-ad-slot="7181624283" data-ad-format="auto" data-full-width-responsive="false"></ins>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+  			</div>
+    </div>
+</aside>
+
+
+	
+
+
+
+
+<div id="search" class="search-overlay">
+    <div class="search-form">
+        
+        <img class="search-overlay-logo" src="https://www.wp-talk.com/assets/img/favicon.ico" alt="워드프레스톡(WP-TALK) 매거진">
+        
+        <a href="/">
+          <span class="search-overlay-title">워드프레스톡(WP-TALK) 매거진</span>
+        </a>
+        <input id="local-search-input" class="search-input" type="text" name="search" placeholder="검색 ...">
+        <a class="search-overlay-close" href="#"></a>
+    </div>
+    <div id="local-search-result"></div>
+</div>
+
+
+<footer class="site-footer outer">
+	<div class="site-footer-content inner">
+		<div class="copyright">
+			<i class="fab fa-wordpress"></i> <a href="/" title="워드프레스톡(WP-TALK) 매거진">워드프레스톡(WP-TALK) 매거진</a>
+			&copy; <span class="post-year"></span> 
+		</div>
+		<nav class="site-footer-nav">
+			
+			<a href="https://www.wp-talk.com/lesson/" title="워드프레스 교육/레슨" target="_blank" rel="noopener">워드프레스 교육/레슨</a>
+			<a href="https://www.wp-talk.com/119/" title="워드프레스 문제 해결 서비스" target="_blank" rel="noopener">워드프레스 문제 해결 서비스</a>
+			<a href="https://www.wp-talk.com/app/child-theme-builder/" title="차일드테마 온라인 빌더" target="_blank" rel="noopener">차일드테마 온라인 빌더</a>
+			<a href="https://www.wp-talk.com/naver-blog/" title="네이버 블로그" target="_blank" rel="noopener">네이버 블로그</a>
+			<a href="https://www.wp-talk.com/kakao/" title="카카오톡 문의" target="_blank" rel="noopener">카카오톡 문의</a>
+		</nav>
+	</div>
+</footer>
+<div id="footer-banner">
+	<a href="https://www.wp-talk.com/try/bluehost/wp/" target="_blank">
+		<div class="footer-promo-text">
+			워드프레스 No.1 호스팅 - 블루호스트(Bluehost)<br> +50% 세일 ( <span class="post-year"></span>년 <span class="post-month"></span>월 )
+		</div>
+	</a>
+</div>
+
+	
+
+
+<script>if(window.navigator && navigator.serviceWorker) {navigator.serviceWorker.getRegistrations().then(function(registrations) {for(let registration of registrations) {registration.unregister()}})}</script>
+
+
+<script async src="/js/allinone.min.js" id="scriptLoad"></script>
+
+
+
+
+
+
+<script>
+    document.getElementById('scriptLoad').addEventListener('load', function () {
+        var bLazy = new Blazy()
+    })
+</script>
+
+
+
+
+<div class="floating-header">
+	<div class="floating-header-logo">
+        <a href="/" title="워드프레스톡(WP-TALK) 매거진">
+			
+                <img src="https://www.wp-talk.com/assets/img/favicon.ico" alt="워드프레스톡(WP-TALK) 매거진 icon">
+			
+            <span>워드프레스톡(WP-TALK) 매거진</span>
+        </a>
+    </div>
+    <span class="floating-header-divider">&mdash;</span>
+    <div class="floating-header-title">[필수] 내 컴퓨터에서 워드프레스 운영하는 방법 : 로컬 웹서버 설치하기 - 워드프레스톡</div>
+    <progress class="progress" value="0">
+        <span class="progress-container">
+            <span class="progress-bar"></span>
+        </span>
+    </progress>
+</div>
+<script>
+    document.getElementById('scriptLoad').addEventListener('load', function () {
+        postProgressBar()
+    })
+</script>
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    document.getElementById('scriptLoad').addEventListener('load', function(){
+        searchFunc("/")
+    });
+</script>
+
+
+
+
+
+
+	<script async src="/js/date.js"></script>
+
+
+
+<script async src="/js/mouseon.js"></script>
+
+
+
+
+<script async src="/js/back-to-top.js"></script>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129198477-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-129198477-3');
+</script>
+
+
+<script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
+<script type="text/javascript">
+  if(!wcs_add) var wcs_add = {};
+  wcs_add["wa"] = "15b06c65c4d33";
+  wcs_do();
+</script>
+
+
+
+
+	<a id="chat-button" href="https://www.wp-talk.com/kakao/" target="_blank">
+		<img src="https://hellotblog.files.wordpress.com/2019/07/kakaotalk-chat-button-100x100.png">
+	</a>
+	<a id="back-to-top" href="#" class title="Go To Top"><i class="fas fa-chevron-up"></i></a>
+
+</body>
+</html>
