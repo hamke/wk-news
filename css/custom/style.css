@@ -162,7 +162,7 @@ code {
 }
 
 .markdown-body>table {
-  min-width: 260px !important;
+  min-width: 50% !important;
 }
 
 .read-next-card {
