@@ -8,6 +8,11 @@
   margin: 0 auto 2rem;
 }
 
+.adsense-below-content {
+  width: 100%;
+  margin: 0 auto 2rem;
+}
+
 .author-stats {
   font-style: initial !important;
 }
@@ -212,6 +217,10 @@ code {
   .site-footer {
     padding-bottom: 100px !important;
   }
+}
+
+.tags-postTags {
+  margin: 3vw 0 !important;
 }
 
 .post-full-header {
