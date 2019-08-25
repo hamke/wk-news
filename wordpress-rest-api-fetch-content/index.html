@@ -302,7 +302,7 @@
   .then(res => res.json())
   .then(wptalk_result => {
     let output =
-      '<table><thead><tr><th>순서</th><th>제목</th><th>작성일자</th></thead><tbody>';
+      '<table><thead><tr><th>순서</th><th>최신 글 목록</th><th>작성일자</th></thead><tbody>';
     for (let i in wptalk_result) {
       id = Number(i) + 1;
       output +=
