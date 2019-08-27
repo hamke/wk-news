@@ -114,7 +114,7 @@ code {
   margin: 0 !important;
 }
 
-.focus-zone-center {
+.focus-zone-center, .focus-zone-center p {
   text-align: center;
 }
 
