@@ -185,6 +185,12 @@ code {
   margin: 0 20px 20px !important;
 }
 
+@media (max-width: 700px) {
+  .search-button-area {
+    box-shadow: -5px 0px 5px -5px #eee;
+  }
+}
+
 .search-keyword {
   color: #fff !important;
   background-color: #29709e;
