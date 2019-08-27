@@ -17,6 +17,11 @@
   font-style: initial !important;
 }
 
+.author-template .site-header-content,
+.tag-template .site-header-content {
+  padding: 8vw 4vw 10vw !important;
+}
+
 #back-to-top {
     cursor: pointer;
     position: fixed;
@@ -141,6 +146,17 @@ code {
 	#footer-banner .footer-promo-text br {
 		display: none;
 	}
+}
+
+.home-new-template .site-header-content {
+  padding: 10vw 4vw 8vw !important;
+}
+
+@media (min-width: 900px) {
+  .home-new-template .post-feed {
+    margin: 0 -20px !important;
+    padding-top: 40px !important;
+  }
 }
 
 #local-search-result ul li {
