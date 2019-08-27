@@ -8,6 +8,70 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
+        <lastmod>2019-08-27T06:19:47.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
+        <lastmod>2019-08-27T06:18:39.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
+        <lastmod>2019-08-27T06:16:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-developers-must-plugins/</loc>
+        <lastmod>2019-08-27T06:15:47.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/</loc>
+        <lastmod>2019-08-27T06:13:35.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-add-intro-main-page/</loc>
+        <lastmod>2019-08-27T06:04:14.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/china-website-loding-speed-slow/</loc>
+        <lastmod>2019-08-27T06:02:28.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/all-wordpress-recommendation-wptalk/</loc>
+        <lastmod>2019-08-27T06:01:18.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
         <lastmod>2019-08-27T05:53:09.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -16,56 +80,8 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-add-intro-main-page/</loc>
-        <lastmod>2019-08-27T03:13:28.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
-        <lastmod>2019-08-27T03:11:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
         <lastmod>2019-08-27T03:11:32.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
-        <lastmod>2019-08-27T03:11:27.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
-        <lastmod>2019-08-27T03:11:22.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-developers-must-plugins/</loc>
-        <lastmod>2019-08-27T03:11:16.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/</loc>
-        <lastmod>2019-08-27T03:11:09.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -82,22 +98,6 @@
     <url>
         <loc>https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/</loc>
         <lastmod>2019-08-27T03:10:44.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/china-website-loding-speed-slow/</loc>
-        <lastmod>2019-08-27T03:10:39.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/all-wordpress-recommendation-wptalk/</loc>
-        <lastmod>2019-08-27T03:10:31.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

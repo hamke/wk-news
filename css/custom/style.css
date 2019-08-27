@@ -249,8 +249,10 @@ code {
   margin: 3vw 0 !important;
 }
 
-.post-full-header {
-  padding: 5vw 3vw 4vw !important;
+@media (min-width: 500px) {
+  .post-full-header {
+    padding: 5vw 3vw 4vw !important;
+  }
 }
 
 .post-full-meta {

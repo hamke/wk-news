@@ -205,6 +205,12 @@
 <p>워드프레스 설치 디렉토리 (Public)<br><span style="padding-left: 1rem;">└ wp-content</span><br><span style="padding-left: 4rem;">└ themes</span><br><span style="padding-left: 8rem;">└ “신규 폴더”</span></p>
 </div>
 
+<!-- MKTTALK : Middle -->
+<p><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1087484447886876" data-ad-slot="7181624283" data-ad-format="auto" data-full-width-responsive="false"></ins></p>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <hr>
 <p>일반적으로 원본(부모) 테마 디렉토리 이름이 “wptalk” 라면, 차일드테마로 사용할 새로운 폴더 이름은 “wptalk-child”와 같이 명명합니다.</p>
 <hr>
@@ -221,6 +227,12 @@
 <figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">function wptalk_enqueue_styles() &#123;</span><br><span class="line">  $parent_style = &apos;parent-style&apos;;</span><br><span class="line">  wp_enqueue_style( $parent_style, get_template_directory_uri() . &apos;/style.css&apos; );</span><br><span class="line">  wp_enqueue_style( &apos;child-style&apos;,</span><br><span class="line">    get_stylesheet_directory_uri() . &apos;/style.css&apos;,</span><br><span class="line">    array( $parent_style ),</span><br><span class="line">    wp_get_theme()-&gt;get(&apos;Version&apos;)</span><br><span class="line">  );</span><br><span class="line">&#125;</span><br><span class="line">add_action( &apos;wp_enqueue_scripts&apos;, &apos;wptalk_enqueue_styles&apos; );</span><br></pre></td></tr></table></figure>
 
 </div>
+
+<!-- MKTTALK : Middle -->
+<p><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1087484447886876" data-ad-slot="7181624283" data-ad-format="auto" data-full-width-responsive="false"></ins></p>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <hr>
 <h3 id="4-“screenshot-png”-파일-복사해-오기"><a href="#4-“screenshot-png”-파일-복사해-오기" class="headerlink" title="4. “screenshot.png” 파일 복사해 오기"></a>4. “screenshot.png” 파일 복사해 오기</h3><p>“screenshot.png” 파일은 관리자(어드민) 대시보드에서 해당 테마를 소개할 때 사용되는 이미지 파일입니다.</p>
@@ -256,6 +268,12 @@
 <center><a href="https://www.wp-talk.com/app/child-theme-builder/" rel="noopener noreferrer" target="_blank">워드프레스 차일드 테마 온라인 빌더(WordPress Child Theme Builder)</a></center>
 
 <center><a href="https://www.wp-talk.com/app/child-theme-builder/" rel="noopener noreferrer" target="_blank">www.wp-talk.com/app/child-theme-builder</a></center>
+
+<!-- MKTTALK : Middle -->
+<p><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-1087484447886876" data-ad-slot="7181624283" data-ad-format="auto" data-full-width-responsive="false"></ins></p>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 <hr>
 <p><a name="index-epilogue"></a></p>
