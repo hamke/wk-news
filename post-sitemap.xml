@@ -8,96 +8,8 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-faq-for-users/</loc>
-        <lastmod>2019-09-04T11:27:25.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
-        <lastmod>2019-09-03T09:06:09.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
-        <lastmod>2019-09-03T09:06:05.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
-        <lastmod>2019-09-03T09:06:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
-        <lastmod>2019-09-03T09:05:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-developers-must-plugins/</loc>
-        <lastmod>2019-09-03T09:05:54.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/</loc>
-        <lastmod>2019-09-03T09:05:51.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-add-intro-main-page/</loc>
-        <lastmod>2019-09-03T09:05:36.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-119/</loc>
-        <lastmod>2019-09-03T09:05:32.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
-        <lastmod>2019-09-03T09:05:28.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/</loc>
-        <lastmod>2019-09-03T09:05:23.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/china-website-loding-speed-slow/</loc>
-        <lastmod>2019-09-03T09:05:19.000Z</lastmod>
+        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
+        <lastmod>2019-09-05T13:25:09.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -105,7 +17,47 @@
 
     <url>
         <loc>https://news.wp-talk.com/all-wordpress-recommendation-wptalk/</loc>
-        <lastmod>2019-09-03T09:04:52.000Z</lastmod>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/</loc>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/china-website-loding-speed-slow/</loc>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-119/</loc>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-add-intro-main-page/</loc>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -113,7 +65,63 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
-        <lastmod>2019-09-03T09:03:08.000Z</lastmod>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/</loc>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-developers-must-plugins/</loc>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-faq-for-users/</loc>
+        <lastmod>2019-09-04T11:27:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
