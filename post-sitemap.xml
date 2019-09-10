@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/wordpress-faq-for-users/</loc>
+        <lastmod>2019-09-10T17:49:31.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2019-09-05T15:02:44.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -24,15 +32,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-faq-for-users/</loc>
-        <lastmod>2019-09-05T14:02:39.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
+        <loc>https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/</loc>
         <lastmod>2019-09-05T11:10:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -40,7 +40,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/</loc>
+        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
         <lastmod>2019-09-05T11:10:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
