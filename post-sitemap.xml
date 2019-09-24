@@ -64,6 +64,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/china-website-loding-speed-slow/</loc>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/wordpress-119/</loc>
         <lastmod>2019-09-05T11:10:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -72,7 +80,15 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/china-website-loding-speed-slow/</loc>
+        <loc>https://news.wp-talk.com/wordpress-add-intro-main-page/</loc>
+        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
         <lastmod>2019-09-05T11:10:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -89,22 +105,6 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-developers-must-plugins/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
-        <lastmod>2019-09-05T11:10:17.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-add-intro-main-page/</loc>
         <lastmod>2019-09-05T11:10:17.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
