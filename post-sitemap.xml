@@ -24,7 +24,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
+        <loc>https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/</loc>
         <lastmod>2019-09-27T16:23:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -32,7 +32,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/</loc>
+        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
         <lastmod>2019-09-27T16:23:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -48,7 +48,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-119/</loc>
+        <loc>https://news.wp-talk.com/china-website-loading-speed-slow/</loc>
         <lastmod>2019-09-27T16:23:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -56,7 +56,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/china-website-loding-speed-slow/</loc>
+        <loc>https://news.wp-talk.com/wordpress-119/</loc>
         <lastmod>2019-09-27T16:23:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -80,14 +80,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
-        <lastmod>2019-09-27T16:23:29.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-talk.com/wordpress-developers-must-plugins/</loc>
         <lastmod>2019-09-27T16:23:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -104,6 +96,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
+        <lastmod>2019-09-27T16:23:29.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2019-09-27T16:23:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -112,7 +112,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
+        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
         <lastmod>2019-09-27T16:23:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -120,7 +120,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
+        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2019-09-27T16:23:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
