@@ -8,8 +8,16 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
+        <lastmod>2019-10-09T01:13:39.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/wordpress-analytics-usage/</loc>
-        <lastmod>2019-10-02T17:19:52.000Z</lastmod>
+        <lastmod>2019-10-02T17:23:09.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -98,14 +106,6 @@
     <url>
         <loc>https://news.wp-talk.com/wordpress-119/</loc>
         <lastmod>2019-10-01T19:58:29.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
-        <lastmod>2019-10-01T19:58:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
