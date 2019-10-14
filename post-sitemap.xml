@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
+        <lastmod>2019-10-14T11:51:58.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
         <lastmod>2019-10-10T21:57:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -50,14 +58,6 @@
     <url>
         <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2019-10-01T20:02:55.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
-        <lastmod>2019-10-01T20:02:33.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
