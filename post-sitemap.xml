@@ -8,6 +8,54 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
+        <lastmod>2019-10-15T00:31:09.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/china-website-loading-speed-slow/</loc>
+        <lastmod>2019-10-15T00:29:54.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-add-intro-main-page/</loc>
+        <lastmod>2019-10-15T00:29:23.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
+        <lastmod>2019-10-15T00:28:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
+        <lastmod>2019-10-15T00:28:35.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
+        <lastmod>2019-10-15T00:26:15.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/wordpress-analytics-usage/</loc>
         <lastmod>2019-10-14T12:00:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -26,38 +74,6 @@
     <url>
         <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
         <lastmod>2019-10-10T21:57:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
-        <lastmod>2019-10-01T20:04:11.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
-        <lastmod>2019-10-01T20:03:51.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
-        <lastmod>2019-10-01T20:03:32.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
-        <lastmod>2019-10-01T20:02:55.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -96,14 +112,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-add-intro-main-page/</loc>
-        <lastmod>2019-10-01T19:59:13.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-talk.com/wordpress-119/</loc>
         <lastmod>2019-10-01T19:58:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -114,14 +122,6 @@
     <url>
         <loc>https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/</loc>
         <lastmod>2019-10-01T19:57:43.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/china-website-loading-speed-slow/</loc>
-        <lastmod>2019-10-01T19:57:07.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
