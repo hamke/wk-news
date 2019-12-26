@@ -48,6 +48,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
+        <lastmod>2019-11-20T23:10:11.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2019-11-20T23:10:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -57,14 +65,6 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
-        <lastmod>2019-11-20T23:10:11.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
         <lastmod>2019-11-20T23:10:11.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
