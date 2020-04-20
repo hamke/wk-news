@@ -40,7 +40,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-119/</loc>
+        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
         <lastmod>2020-03-13T23:24:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -48,7 +48,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
+        <loc>https://news.wp-talk.com/wordpress-119/</loc>
         <lastmod>2020-03-13T23:24:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -96,14 +96,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
-        <lastmod>2020-03-13T23:18:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2020-03-13T23:18:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -112,7 +104,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
+        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2020-03-13T23:18:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -121,6 +113,14 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
+        <lastmod>2020-03-13T23:18:46.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
         <lastmod>2020-03-13T23:18:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
