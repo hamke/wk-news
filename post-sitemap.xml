@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/all-wordpress-recommendation-wptalk/</loc>
+        <lastmod>2020-05-26T07:25:46.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/wordpress-must-know-online-tool-sites/</loc>
         <lastmod>2020-05-24T16:31:23.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -33,14 +41,6 @@
 
     <url>
         <loc>https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/</loc>
-        <lastmod>2020-03-13T23:24:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/all-wordpress-recommendation-wptalk/</loc>
         <lastmod>2020-03-13T23:24:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -112,7 +112,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
+        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2020-03-13T23:18:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -120,7 +120,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
+        <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
         <lastmod>2020-03-13T23:18:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
