@@ -9,7 +9,7 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-examples-all-list/</loc>
-        <lastmod>2020-06-02T22:03:52.000Z</lastmod>
+        <lastmod>2020-06-02T22:11:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -48,6 +48,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/wordpress-119/</loc>
+        <lastmod>2020-06-02T21:22:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/wordpress-add-intro-main-page/</loc>
         <lastmod>2020-06-02T21:22:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -56,7 +64,15 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-119/</loc>
+        <loc>https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/</loc>
+        <lastmod>2020-06-02T21:22:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
         <lastmod>2020-06-02T21:22:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -80,15 +96,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
-        <lastmod>2020-06-02T21:22:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
+        <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2020-06-02T21:22:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -104,7 +112,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/</loc>
+        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2020-06-02T21:22:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -113,14 +121,6 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
-        <lastmod>2020-06-02T21:22:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2020-06-02T21:22:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
