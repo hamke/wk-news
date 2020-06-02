@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/wordpress-examples-all-list/</loc>
+        <lastmod>2020-06-02T21:40:20.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/all-wordpress-recommendation-wptalk/</loc>
         <lastmod>2020-06-02T21:22:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,14 +81,6 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-developers-must-plugins/</loc>
-        <lastmod>2020-06-02T21:22:00.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-examples-all-list/</loc>
         <lastmod>2020-06-02T21:22:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
