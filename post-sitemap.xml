@@ -9,7 +9,7 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-examples-all-list/</loc>
-        <lastmod>2020-06-02T19:57:38.000Z</lastmod>
+        <lastmod>2020-06-02T20:01:03.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -64,7 +64,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-119/</loc>
+        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
         <lastmod>2020-03-13T23:24:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -72,7 +72,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
+        <loc>https://news.wp-talk.com/wordpress-119/</loc>
         <lastmod>2020-03-13T23:24:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -112,6 +112,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
+        <lastmod>2020-03-13T23:18:46.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2020-03-13T23:18:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -129,14 +137,6 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
-        <lastmod>2020-03-13T23:18:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
         <lastmod>2020-03-13T23:18:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
