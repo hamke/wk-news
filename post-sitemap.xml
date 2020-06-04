@@ -9,7 +9,7 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-examples-all-list/</loc>
-        <lastmod>2020-06-04T17:31:59.000Z</lastmod>
+        <lastmod>2020-06-04T18:40:45.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -88,14 +88,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
-        <lastmod>2020-06-02T23:15:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -104,7 +96,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
+        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -120,7 +112,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
+        <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -128,7 +120,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-themeforest-envato-register/</loc>
+        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -153,6 +145,14 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-faq-for-users/</loc>
+        <lastmod>2020-06-02T23:15:46.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-themeforest-envato-register/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
