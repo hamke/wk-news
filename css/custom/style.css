@@ -245,7 +245,10 @@ code {
 }
 
 .site-description {
+  font-weight: 700;
+  opacity: 1.0;
   padding: 10px 0 0 !important;
+  text-shadow: 1px 1px 5px #111;
 }
 
 .site-header-content .author-profile-image {
@@ -263,11 +266,6 @@ code {
 }
 
 .site-title {
-  text-shadow: 1px 1px 5px #111;
-}
-
-.site-description {
-  font-weight: 700;
   text-shadow: 1px 1px 5px #111;
 }
 
