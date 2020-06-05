@@ -9,7 +9,7 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-examples-all-list/</loc>
-        <lastmod>2020-06-04T18:52:24.000Z</lastmod>
+        <lastmod>2020-06-05T11:14:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -64,7 +64,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/</loc>
+        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -72,7 +72,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
+        <loc>https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -136,6 +136,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/wordpress-themeforest-envato-register/</loc>
+        <lastmod>2020-06-02T23:15:46.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/wordpress-analytics-usage/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -145,14 +153,6 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-faq-for-users/</loc>
-        <lastmod>2020-06-02T23:15:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-themeforest-envato-register/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
