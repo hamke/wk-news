@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
+        <lastmod>2020-06-05T15:10:32.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-talk.com/wordpress-examples-all-list/</loc>
         <lastmod>2020-06-05T11:14:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -72,14 +80,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
-        <lastmod>2020-06-02T23:15:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-talk.com/wordpress-developers-must-plugins/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,7 +88,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
+        <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -96,7 +96,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
+        <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -120,14 +120,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
-        <lastmod>2020-06-02T23:15:46.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-talk.com/wordpress-sale-usage/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -137,6 +129,14 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-themeforest-envato-register/</loc>
+        <lastmod>2020-06-02T23:15:46.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
         <lastmod>2020-06-02T23:15:46.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
