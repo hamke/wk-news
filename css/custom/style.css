@@ -262,6 +262,20 @@ code {
   }
 }
 
+.site-title {
+  text-shadow: 1px 1px 5px #111;
+}
+
+.site-description {
+  font-weight: 700;
+  text-shadow: 1px 1px 5px #111;
+}
+
+.site-nav ul {
+  text-shadow: 1px 1px 5px #111;
+  background-color: #1d1412;
+}
+
 .tags-postTags {
   margin: 3vw 0 !important;
 }
