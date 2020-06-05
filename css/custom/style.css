@@ -271,6 +271,10 @@ code {
   text-shadow: 1px 1px 5px #111;
 }
 
+.site-nav {
+  font-weight: 700;
+}
+
 .site-nav ul {
   text-shadow: 1px 1px 5px #111;
   background-color: #1d1412;
