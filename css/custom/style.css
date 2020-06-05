@@ -166,8 +166,11 @@ code {
 }
 
 .home-new-template .site-nav ul {
-  text-shadow: 1px 1px 5px #111;
   background-color: #1d1412;
+}
+
+.home-new-template .site-nav-left {
+  padding-left: 10px;
 }
 
 @media (min-width: 900px) {
