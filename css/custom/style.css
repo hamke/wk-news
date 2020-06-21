@@ -273,6 +273,10 @@ code {
   }
 }
 
+.site-footer-content {
+  white-space: nowrap;
+}
+
 .site-title {
   text-shadow: 1px 1px 5px #111;
 }
