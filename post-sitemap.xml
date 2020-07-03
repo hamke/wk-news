@@ -9,7 +9,7 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-themeforest-envato-register/</loc>
-        <lastmod>2020-07-03T14:13:32.000Z</lastmod>
+        <lastmod>2020-07-03T14:18:13.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -17,7 +17,7 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-sale-usage/</loc>
-        <lastmod>2020-07-03T14:13:27.000Z</lastmod>
+        <lastmod>2020-07-03T14:18:08.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -25,7 +25,7 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-rest-api-fetch-content/</loc>
-        <lastmod>2020-07-03T14:13:21.000Z</lastmod>
+        <lastmod>2020-07-03T14:18:03.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -33,7 +33,7 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-must-know-online-tool-sites/</loc>
-        <lastmod>2020-07-03T14:13:16.000Z</lastmod>
+        <lastmod>2020-07-03T14:17:57.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -41,7 +41,7 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-lesson/</loc>
-        <lastmod>2020-07-03T14:13:10.000Z</lastmod>
+        <lastmod>2020-07-03T14:17:43.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -49,7 +49,7 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-install-local-computer-bitnami/</loc>
-        <lastmod>2020-07-03T14:13:05.000Z</lastmod>
+        <lastmod>2020-07-03T14:17:39.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -57,7 +57,7 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-install-free-hosting-000webhost/</loc>
-        <lastmod>2020-07-03T14:13:00.000Z</lastmod>
+        <lastmod>2020-07-03T14:17:34.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -65,7 +65,79 @@
 
     <url>
         <loc>https://news.wp-talk.com/wordpress-hosting-recommendation/</loc>
-        <lastmod>2020-07-03T14:12:54.000Z</lastmod>
+        <lastmod>2020-07-03T14:17:29.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-developers-must-plugins/</loc>
+        <lastmod>2020-07-03T14:17:17.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/</loc>
+        <lastmod>2020-07-03T14:17:12.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
+        <lastmod>2020-07-03T14:17:08.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-analytics-usage/</loc>
+        <lastmod>2020-07-03T14:17:04.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-add-intro-main-page/</loc>
+        <lastmod>2020-07-03T14:16:59.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/wordpress-119/</loc>
+        <lastmod>2020-07-03T14:16:50.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
+        <lastmod>2020-07-03T14:16:42.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/</loc>
+        <lastmod>2020-07-03T14:16:34.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-talk.com/china-website-loading-speed-slow/</loc>
+        <lastmod>2020-07-03T14:16:28.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -82,78 +154,6 @@
     <url>
         <loc>https://news.wp-talk.com/wordpress-examples-all-list/</loc>
         <lastmod>2020-07-03T14:12:43.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-developers-must-plugins/</loc>
-        <lastmod>2020-07-03T14:12:36.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-setting-wptalk/</loc>
-        <lastmod>2020-07-03T14:12:31.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-child-theme-builder-usage/</loc>
-        <lastmod>2020-07-03T14:12:26.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-analytics-usage/</loc>
-        <lastmod>2020-07-03T14:12:21.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-add-intro-main-page/</loc>
-        <lastmod>2020-07-03T14:12:16.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/wordpress-119/</loc>
-        <lastmod>2020-07-03T14:12:10.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/themeforest-wordpress-free-month-themes/</loc>
-        <lastmod>2020-07-03T14:12:04.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/install-wordpress-local-webserver-wptalk/</loc>
-        <lastmod>2020-07-03T14:11:59.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-talk.com/china-website-loading-speed-slow/</loc>
-        <lastmod>2020-07-03T14:11:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
