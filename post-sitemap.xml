@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-hosting-recommendation/</loc>
+        <lastmod>2020-07-03T19:57:18.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
         <lastmod>2020-07-03T19:44:33.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,14 +88,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-hosting-recommendation/</loc>
-        <lastmod>2020-07-03T19:44:33.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2020-07-03T19:44:33.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -96,7 +96,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-install-local-computer-bitnami/</loc>
+        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
         <lastmod>2020-07-03T19:44:33.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -104,7 +104,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
+        <loc>https://news.wp-kr.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2020-07-03T19:44:33.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
