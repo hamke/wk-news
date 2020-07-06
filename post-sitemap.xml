@@ -9,7 +9,7 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
-        <lastmod>2020-07-06T20:02:40.000Z</lastmod>
+        <lastmod>2020-07-06T20:07:52.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -48,14 +48,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
-        <lastmod>2020-07-06T19:39:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-child-theme-builder-usage/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,7 +72,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-hosting-recommendation/</loc>
+        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -88,7 +80,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
+        <loc>https://news.wp-kr.com/wordpress-hosting-recommendation/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -104,6 +96,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
+        <lastmod>2020-07-06T19:39:02.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -112,7 +112,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-must-know-online-tool-sites/</loc>
+        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -128,7 +128,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-sale-usage/</loc>
+        <loc>https://news.wp-kr.com/wordpress-must-know-online-tool-sites/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -136,7 +136,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
+        <loc>https://news.wp-kr.com/wordpress-sale-usage/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
