@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
+        <lastmod>2020-07-06T20:02:40.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/install-wordpress-local-webserver-wptalk/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -32,7 +40,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
+        <loc>https://news.wp-kr.com/wordpress-119/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -40,7 +48,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-119/</loc>
+        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -80,6 +88,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
+        <lastmod>2020-07-06T19:39:02.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -89,14 +105,6 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-install-local-computer-bitnami/</loc>
-        <lastmod>2020-07-06T19:39:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -154,14 +162,6 @@
     <url>
         <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
         <lastmod>2020-07-06T19:38:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
-        <lastmod>2020-07-06T19:37:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
