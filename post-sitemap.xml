@@ -8,6 +8,54 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
+        <lastmod>2020-07-12T05:47:01.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-hosting-recommendation/</loc>
+        <lastmod>2020-07-12T05:47:01.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
+        <lastmod>2020-07-12T05:47:01.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-must-know-online-tool-sites/</loc>
+        <lastmod>2020-07-12T05:47:01.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
+        <lastmod>2020-07-12T05:47:01.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-developers-must-plugins/</loc>
+        <lastmod>2020-07-12T05:44:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/themeforest-wordpress-free-month-themes/</loc>
         <lastmod>2020-07-12T05:28:55.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -40,14 +88,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
-        <lastmod>2020-07-09T11:50:51.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/install-wordpress-local-webserver-wptalk/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -64,14 +104,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
-        <lastmod>2020-07-06T19:39:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-119/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,31 +112,15 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
+        <lastmod>2020-07-06T19:39:02.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-child-theme-builder-usage/</loc>
-        <lastmod>2020-07-06T19:39:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-developers-must-plugins/</loc>
-        <lastmod>2020-07-06T19:39:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-hosting-recommendation/</loc>
-        <lastmod>2020-07-06T19:39:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -128,7 +144,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-must-know-online-tool-sites/</loc>
+        <loc>https://news.wp-kr.com/wordpress-rest-api-fetch-content/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -144,24 +160,8 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-rest-api-fetch-content/</loc>
-        <lastmod>2020-07-06T19:39:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
         <lastmod>2020-07-06T19:39:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
-        <lastmod>2020-07-06T19:38:58.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
