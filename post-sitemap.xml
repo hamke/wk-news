@@ -9,7 +9,7 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
-        <lastmod>2020-07-15T08:35:04.000Z</lastmod>
+        <lastmod>2020-07-15T08:40:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -112,7 +112,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-rest-api-fetch-content/</loc>
+        <loc>https://news.wp-kr.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2020-07-13T07:35:36.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -128,7 +128,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-sale-usage/</loc>
+        <loc>https://news.wp-kr.com/wordpress-rest-api-fetch-content/</loc>
         <lastmod>2020-07-13T07:35:36.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -136,7 +136,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-install-local-computer-bitnami/</loc>
+        <loc>https://news.wp-kr.com/wordpress-sale-usage/</loc>
         <lastmod>2020-07-13T07:35:36.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
