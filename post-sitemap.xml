@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-examples-woocommerce-all-list/</loc>
+        <lastmod>2020-07-30T21:56:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-themeforest-envato-register/</loc>
         <lastmod>2020-07-30T08:58:55.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -154,14 +162,6 @@
     <url>
         <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
         <lastmod>2020-07-30T08:53:42.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-examples-woocommerce-all-list/</loc>
-        <lastmod>2020-07-30T08:50:41.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
