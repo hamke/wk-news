@@ -26,6 +26,31 @@ body {
   margin: 0 auto 2rem;
 }
 
+.adsense-section {
+  text-align: center;
+  margin: 0 10px auto;
+  margin-bottom: 40px;
+}
+.adsense-section .adsense-square-1 {
+  display:inline-block;
+  padding: 0.5em;
+}
+.adsense-section .adsense-square-2 {
+  display:inline-block;
+  padding: 0.5em;
+}
+.adsense-section .adsense-square-1 .adsbygoogle,
+.adsense-section .adsense-square-2 .adsbygoogle {
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+}
+@media screen and (max-width:700px) {
+  .adsense-section .adsense-square-2 {
+    display: none;
+  }
+}
+
 .author-stats {
   font-style: initial !important;
 }
