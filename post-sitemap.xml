@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-faq-for-users/</loc>
+        <lastmod>2020-08-13T04:59:49.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2020-08-13T04:52:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,14 +90,6 @@
     <url>
         <loc>https://news.wp-kr.com/wordpress-child-theme-builder-usage/</loc>
         <lastmod>2020-08-13T04:43:04.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-faq-for-users/</loc>
-        <lastmod>2020-08-13T04:35:07.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
