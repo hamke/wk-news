@@ -8,6 +8,46 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
+        <lastmod>2020-08-29T14:09:33.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
+        <lastmod>2020-08-29T14:09:33.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
+        <lastmod>2020-08-29T14:09:33.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-faq-for-users/</loc>
+        <lastmod>2020-08-29T14:09:33.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-rest-api-fetch-content/</loc>
+        <lastmod>2020-08-29T14:09:27.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
         <lastmod>2020-08-20T06:07:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -48,7 +88,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
+        <loc>https://news.wp-kr.com/china-website-loading-speed-slow/</loc>
         <lastmod>2020-08-16T10:52:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -57,14 +97,6 @@
 
     <url>
         <loc>https://news.wp-kr.com/themeforest-wordpress-free-month-themes/</loc>
-        <lastmod>2020-08-16T10:52:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/china-website-loading-speed-slow/</loc>
         <lastmod>2020-08-16T10:52:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -104,14 +136,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
-        <lastmod>2020-08-16T10:52:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2020-08-16T10:52:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -120,23 +144,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
-        <lastmod>2020-08-16T10:52:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-must-know-online-tool-sites/</loc>
-        <lastmod>2020-08-16T10:52:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-rest-api-fetch-content/</loc>
         <lastmod>2020-08-16T10:52:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -161,14 +169,6 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-themeforest-envato-register/</loc>
-        <lastmod>2020-08-16T10:52:14.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-faq-for-users/</loc>
         <lastmod>2020-08-16T10:52:14.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
