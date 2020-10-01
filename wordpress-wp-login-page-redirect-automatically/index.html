@@ -227,9 +227,10 @@
 <h2 id="◼︎-wp-login-페이지-접속시-자동-이동시키는-이유"><a href="#◼︎-wp-login-페이지-접속시-자동-이동시키는-이유" class="headerlink" title="◼︎ wp-login 페이지 접속시 자동 이동시키는 이유"></a>◼︎ wp-login 페이지 접속시 자동 이동시키는 이유</h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2018/12/wptalk-wp-login-page.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 <p><a href="https://www.wp-talk.com/kr/basic/" target="_blank">워드프레스(WordPress)</a>에서 로그인 페이지는 기본적으로 ~/wp-login/ 또는 ~/wp-login.php 로 설정되어 있습니다.</p>
-<p>회원 가입 기능을 외부에 활성화하지 않다면, 관리자(어드민) 대시보드만 사용하기 때문에 큰 상관이 없을 수 있습니다.</p>
-<p>하지만 <strong>SaaS(Software as a Service) 형식의 웹어플리케이션이나 커뮤니티 형태의 웹사이트를 구축한다면, 일반 사용자들도 로그인 페이지를 이용</strong>해야 하기 때문에, 이렇게 기본적으로 설정된 워드프레스 로그인 페이지는 사용하기 적합하지 않을 수 있습니다.</p>
-<p>이러한 경우, <strong>워드프레스의 ‘/wp-login/’ 페이지에 접속했을 때 홈(Home) 페이지 또는 별도로 만든 커스텀 로그인 페이지(Custom Login Page)로 간편하게 자동 이동(리디렉션, Redirection)</strong>시키는 방법이 있습니다.</p>
+<p>회원 가입 기능을 외부에 노출 및 활성화하지 않다면, 기본 로그인 페이지는 관리자(어드민)만 사용하기 때문에 특별한 추가 기능이 필요하지 않을 수도 있습니다.</p>
+<p>하지만 만일 워드프레스로 <strong>SaaS(Software as a Service) 형태의 웹어플리케이션이나 커뮤니티 사이트를 구축하고자 한다면, 일반 사용자들도 로그인 페이지를 이용</strong>해야 하기 때문에, 이렇게 기본적으로 설정된 워드프레스 로그인 페이지는 사용성과 디자인 측면에서 적합하지 않을 수 있습니다.</p>
+<p>또한 운영 중인 사이트에 일반 사용자를 위한 로그인/회원 가입 기능이 없더라도, <strong>워드프레스 사이트를 전문적으로 타겟으로 하는 “무작위 대입 공격(Brute-force Attack)”을 방어하고 관리자 계정 탈취를 방지</strong>하기 위해, 로그인 페이지 접속에 대한 별도의 권한 설정을 해 주는 것이 좋습니다.</p>
+<p>이러한 상황을 고려하여, 사용자가 워드프레스 사이트의 기본 로그인 페이지(‘~/wp-login/‘)에 접속했을 때, <strong>해당 사용자의 권한에 따라 홈(Home) 페이지 또는 별도로 만든 커스텀 로그인 페이지(Custom Login Page)로 간편하게 자동 이동(리디렉션, Redirection)</strong>시킬 수 있는 방법이 있습니다.</p>
 <div class="read-more-after-pay" onclick="pay()">
   <div class="read-more-after-pay-container">
     <img src="https://hellotblog.files.wordpress.com/2019/07/kakaotalk-chat-button-100x100.png" style="width:20px; margin: 3px 2px 2px 0px;"> 간편 결제 후 더 자세한 내용 보기 ( 3,000원 / 카카오페이 ) <i class="fas fa-caret-right ml-1"></i>
