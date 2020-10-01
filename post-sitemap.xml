@@ -8,16 +8,8 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
-        <lastmod>2020-10-01T21:54:48.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
-        <lastmod>2020-10-01T21:32:39.000Z</lastmod>
+        <loc>https://news.wp-kr.com/wordpress-disable-right-mouse-click-copy-paste/</loc>
+        <lastmod>2020-10-01T23:48:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -25,15 +17,23 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-search-results-exclude-posts/</loc>
-        <lastmod>2020-10-01T18:40:29.000Z</lastmod>
+        <lastmod>2020-10-01T23:47:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-disable-right-mouse-click-copy-paste/</loc>
-        <lastmod>2020-10-01T18:38:59.000Z</lastmod>
+        <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
+        <lastmod>2020-10-01T23:47:23.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
+        <lastmod>2020-10-01T21:54:48.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
