@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
+        <lastmod>2020-10-01T21:44:01.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
         <lastmod>2020-10-01T21:32:39.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -178,14 +186,6 @@
     <url>
         <loc>https://news.wp-kr.com/china-website-loading-speed-slow/</loc>
         <lastmod>2020-09-13T13:41:50.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
-        <lastmod>2020-09-13T13:41:05.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
