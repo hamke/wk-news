@@ -241,6 +241,7 @@ code {
   background-repeat: no-repeat;
   background-size: cover;
 	border-radius: 1rem;
+  cursor: pointer;
 }
 .read-more-after-pay-container {
   margin: 3rem 0 0;
