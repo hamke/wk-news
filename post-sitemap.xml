@@ -8,8 +8,24 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-themes-ranking-updated/</loc>
+        <lastmod>2020-10-03T01:36:00.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
+        <lastmod>2020-10-03T00:35:43.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
-        <lastmod>2020-10-02T01:19:42.000Z</lastmod>
+        <lastmod>2020-10-02T23:14:33.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -146,14 +162,6 @@
     <url>
         <loc>https://news.wp-kr.com/wordpress-child-theme-builder-usage/</loc>
         <lastmod>2020-09-13T13:42:47.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
-        <lastmod>2020-09-13T13:42:38.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
