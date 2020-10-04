@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-footer-copyright-current-year-auto-update/</loc>
+        <lastmod>2020-10-04T06:03:22.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-themes-ranking-updated/</loc>
         <lastmod>2020-10-04T01:54:32.000Z</lastmod>
         <changefreq>weekly</changefreq>

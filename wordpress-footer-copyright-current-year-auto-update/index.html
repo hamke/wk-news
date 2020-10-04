@@ -16,12 +16,12 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>워드프레스 검색 결과 페이지에서 특정 글/페이지를 제외하는 방법 - 워드프레스웹코리아</title>
+	<title>워드프레스 푸터의 카피라이트 정보를 현재 시간(년도)으로 자동 업데이트 표시 방법 - 워드프레스웹코리아</title>
 
 	<meta name="HandheldFriendly" content="True">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
 	<meta name="author" content="워드프레스웹코리아">
-	<meta name="description" content="워드프레스웹코리아(WP-KR)가 워드프레스 검색 결과 페이지에서 특정 글(포스트) 또는 페이지를 제외하는 방법을 소개해 드립니다.">
+	<meta name="description" content="워드프레스웹코리아(WP-KR.COM)가 워드프레스 푸터(Footer) 부분의 카피라이트(Copyright) 시간 정보를 현재 데이터로 자동 업데이트해서 표시하는 방법을 소개해 드립니다.">
 
 	
 	<meta name="keywords" content>
@@ -43,15 +43,15 @@
 
 	<meta property="og:site_name" content="워드프레스웹코리아(WP-KR) 매거진">
 	<meta property="og:type" content="article">
-	<meta property="og:title" content="워드프레스 검색 결과 페이지에서 특정 글/페이지를 제외하는 방법 - 워드프레스웹코리아">
-	<meta property="og:description" content="워드프레스웹코리아(WP-KR)가 워드프레스 검색 결과 페이지에서 특정 글(포스트) 또는 페이지를 제외하는 방법을 소개해 드립니다.">
-	<meta property="og:url" content="https://news.wp-kr.com/wordpress-search-results-exclude-posts/">
-	<meta property="og:image" content="https://hellotblog.files.wordpress.com/2020/09/wptalk-search-page-image-01-800x500-1.png">
+	<meta property="og:title" content="워드프레스 푸터의 카피라이트 정보를 현재 시간(년도)으로 자동 업데이트 표시 방법 - 워드프레스웹코리아">
+	<meta property="og:description" content="워드프레스웹코리아(WP-KR.COM)가 워드프레스 푸터(Footer) 부분의 카피라이트(Copyright) 시간 정보를 현재 데이터로 자동 업데이트해서 표시하는 방법을 소개해 드립니다.">
+	<meta property="og:url" content="https://news.wp-kr.com/wordpress-footer-copyright-current-year-auto-update/">
+	<meta property="og:image" content="https://hellotblog.files.wordpress.com/2020/10/wptalk-footer-copyrihgt-year-auto-update-06-800.png">
 
 	
-	<meta property="article:published_time" content="2020-09-23T16:09:00+09:00">
+	<meta property="article:published_time" content="2020-10-04T14:10:00+09:00">
 	<meta property="article:author" content="워드프레스웹코리아">
-	<meta property="article:published_first" content="워드프레스웹코리아(WP-KR) 매거진, /wordpress-search-results-exclude-posts/">
+	<meta property="article:published_first" content="워드프레스웹코리아(WP-KR) 매거진, /wordpress-footer-copyright-current-year-auto-update/">
 	
 
 	<script src="/js/jquery-3.4.1.min.js"></script>
@@ -70,20 +70,20 @@
 	<!-- <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> -->
 
 	
-<link rel="canonical" href="https://news.wp-kr.com/wordpress-search-results-exclude-posts/">
+<link rel="canonical" href="https://news.wp-kr.com/wordpress-footer-copyright-current-year-auto-update/">
 
 <script type="application/ld+json">
 	[
 	{
 		"@context": "http://schema.org",
 		"@type": "WebPage",
-		"name": "워드프레스 검색 결과 페이지에서 특정 글/페이지를 제외하는 방법 - 워드프레스웹코리아",
-		"datePublished": "2020-09-23T07:38:19.000Z",
-		"@id": "https://news.wp-kr.com/wordpress-search-results-exclude-posts/",
+		"name": "워드프레스 푸터의 카피라이트 정보를 현재 시간(년도)으로 자동 업데이트 표시 방법 - 워드프레스웹코리아",
+		"datePublished": "2020-10-04T05:29:22.000Z",
+		"@id": "https://news.wp-kr.com/wordpress-footer-copyright-current-year-auto-update/",
 		"author": {"@type": "Person",
 		"name": "워드프레스웹코리아"},
-		"description": "워드프레스웹코리아(WP-KR)가 워드프레스 검색 결과 페이지에서 특정 글(포스트) 또는 페이지를 제외하는 방법을 소개해 드립니다.",
-		"image": "https://hellotblog.files.wordpress.com/2020/09/wptalk-search-page-image-01-800x500-1.png"
+		"description": "워드프레스웹코리아(WP-KR.COM)가 워드프레스 푸터(Footer) 부분의 카피라이트(Copyright) 시간 정보를 현재 데이터로 자동 업데이트해서 표시하는 방법을 소개해 드립니다.",
+		"image": "https://hellotblog.files.wordpress.com/2020/10/wptalk-footer-copyrihgt-year-auto-update-06-800.png"
 	},
 	{
 		"@context": "http://schema.org",
@@ -99,8 +99,8 @@
 		{
 			"@type": "ListItem",
 			"position": 2,
-			"name": "워드프레스 검색 결과 페이지에서 특정 글/페이지를 제외하는 방법 - 워드프레스웹코리아",
-			"item": "https://news.wp-kr.com/wordpress-search-results-exclude-posts/"
+			"name": "워드프레스 푸터의 카피라이트 정보를 현재 시간(년도)으로 자동 업데이트 표시 방법 - 워드프레스웹코리아",
+			"item": "https://news.wp-kr.com/wordpress-footer-copyright-current-year-auto-update/"
 		}
 		]
 	}
@@ -183,10 +183,10 @@
   <div id="site-main" class="site-main outer" role="main">
     <div class="inner">
       <header class="post-full-header">
-        <h1 class="post-full-title">워드프레스 검색 결과 페이지에서 특정 글/페이지를 제외하는 방법 - 워드프레스웹코리아</h1>
+        <h1 class="post-full-title">워드프레스 푸터의 카피라이트 정보를 현재 시간(년도)으로 자동 업데이트 표시 방법 - 워드프레스웹코리아</h1>
         <div class="post-full-meta">
-          <time class="post-full-meta-date" datetime="2020-09-23T07:38:19.000Z">
-            2020-09-23
+          <time class="post-full-meta-date" datetime="2020-10-04T05:29:22.000Z">
+            2020-10-04
           </time>
           
             <span class="date-divider">/</span>
@@ -198,7 +198,7 @@
       </header>
       <div class="post-full ">
         
-          <figure class="post-full-image" style="background-image: url(https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-cover-nekoshoku-01-1800x1200-1.png)"></figure>
+          <figure class="post-full-image" style="background-image: url(https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-cover-sperry-01-1800x1200-1.png)"></figure>
         
         <div class="post-full-content">
           <article id="lightgallery" class="markdown-body">
@@ -217,25 +217,21 @@
             </div>
             <hr>
             <ul>
-<li><a href="#index-01">1. 워드프레스의 검색 기능</a></li>
-<li><a href="#index-02">2. 워드프레스 포스트 ID 파악하는 방법</a></li>
-<li><a href="#index-03">3. 코드 스니펫 입력 및 수정 방법</a></li>
+<li><a href="#index-00">워드프레스 카피라이트 현재 년도 자동 업데이트 표시 방법</a></li>
+<li><a href="#index-01">1. 데이터베이스 정보를 통해 시간 표시하는 방법</a></li>
+<li><a href="#index-02">2. PHP 내장 함수를 통해 시간 표시하는 방법</a></li>
 <li><a href="#index-epilogue">맺음말</a></li>
 <li><a href="#recommendation">도움이 될 만한 연관 추천 글</a></li>
 </ul>
 <hr>
-<p><a name="index-01"></a></p>
-<h2 id="1-워드프레스의-검색-기능"><a href="#1-워드프레스의-검색-기능" class="headerlink" title="1. 워드프레스의 검색 기능"></a>1. 워드프레스의 검색 기능</h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2018/12/wptalk-search-800.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<p><a name="index-00"></a></p>
+<h2 id="◼︎-워드프레스-카피라이트-현재-년도-자동-업데이트-표시-방법"><a href="#◼︎-워드프레스-카피라이트-현재-년도-자동-업데이트-표시-방법" class="headerlink" title="◼︎ 워드프레스 카피라이트 현재 년도 자동 업데이트 표시 방법"></a>◼︎ 워드프레스 카피라이트 현재 년도 자동 업데이트 표시 방법</h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2020/10/wptalk-footer-copyrihgt-year-auto-update-01-800x530-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
-<p><a href="https://www.wp-talk.com/kr/basic/" target="_blank">워드프레스(WordPress)</a>에는 검색 기능이 기본적으로 탑재되어 있습니다. 이러한 검색 기능을 이용하면, 워드프레스로 구축한 웹사이트의 포스트와 페이지를 손쉽게 검색할 수 있습니다.</p>
-<p>하지만 때로 이러한 검색 결과에 원하지 않는 포스트 또는 페이지가 출력되는 경우가 있습니다.</p>
-<p>이럴 때 운영 중인 워드프레스 웹사이트 내의 <strong>특정 글(포스트/페이지 등)을 검색 결과에서 간편하게 제외</strong>할 수 있는 방법이 있습니다.</p>
-<p><a name="index-02"></a></p>
-<h2 id="2-워드프레스-포스트-ID-파악하는-방법"><a href="#2-워드프레스-포스트-ID-파악하는-방법" class="headerlink" title="2. 워드프레스 포스트 ID 파악하는 방법"></a>2. 워드프레스 포스트 ID 파악하는 방법</h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2018/12/wptalk-search-results-01-800.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
-
-<p>먼저 <strong>검색 결과에서 제외하고 싶은 글의 ID를 확인</strong>합니다.</p>
-<p>고유 주소(Permalinks) 메뉴에서 기본(Plain) 형태로 설정되어 있다면, 해당 페이지 주소(예:~/?p=123)에서 확인할 수 있습니다.</p>
-<p>만약 기본(Plain) 형태가 아니라면, <strong>어드민(관리자) 페이지에서 해당 글 링크에 마우스를 올려(Hover)</strong> 놓으면, 위와 같이 화면 아래 부분에서 포스트 ID를 확인할 수 있습니다.</p>
+<p>많은 <a href="https://www.wp-talk.com/kr/basic/" target="_blank"><strong>워드프레스(WordPress)</strong></a> 웹사이트 하단의 푸터(Footer)을 보면, 카피라이트(Copyright) 정보가 표시되어 있는 경우가 많습니다.</p>
+<p>하지만 일부 웹사이트의 경우, 카피라이트 년도 등의 정보를 직접 수동으로 입력하게 되어 있어서, 시간이 지나도 수정되지 않은 채 지난 시간 정보가 그대로 표시되어 있습니다.</p>
+<p>제때 업데이트되지 않는 웹사이트는 방문자로 하여금 제대로 관리되고 있지 않다는 이미지를 심어주며, <strong>웹사이트 내의 컨텐츠에 대한 전체 신뢰도를 함께 저하</strong> 시키게 됩니다.</p>
+<p>따라서 이러한 실수가 지속되면, 장기적으로 방문자의 이탈율 증가와 재방문율 저하 등의 악영향을 끼칠 수 있습니다.</p>
+<p>이러한 문제를 해결하기 위해, 시간이 지나도 웹사이트 내의 <strong>카피라이트 시간 정보를 자동으로 업데이트해서 동적(Dynamically)으로 표시</strong>할 수 있는 방법이 있습니다.</p>
 <div class="read-more-after-pay" onclick="pay()">
   <div class="read-more-after-pay-container">
     <img src="https://hellotblog.files.wordpress.com/2019/07/kakaotalk-chat-button-100x100.png" style="width:20px; margin: 3px 2px 2px 0px;"> 간편 결제 후 더 자세한 내용 보기 ( 3,000원 / 카카오페이 ) <i class="fas fa-caret-right ml-1"></i>
@@ -246,7 +242,7 @@
 </div>
 
 <script type="text/javascript" src="https://cdn.iamport.kr/js/iamport.payment-1.1.5.js"></script>
-<script src="https://www.ttmkt.com/server/wp-kr-news/wordpress-search-results-exclude-posts/process-iamport.js"></script>
+<script src="https://www.ttmkt.com/server/wp-kr-news/wordpress-footer-copyright-current-year-auto-update/process-iamport.js"></script>
 
 <hr>
 <p><a name="index-epilogue"></a></p>
@@ -261,7 +257,9 @@
 <ul>
 <li><p><a href="https://www.wp-talk.com/kr/examples/" target="_blank">워드프레스로 제작된 사이트 구축 사례/예시 모음(한국/일본/중국/미국/유럽 등) 및 간편 확인 방법</a></p>
 </li>
-<li><p><a href="https://www.wp-talk.com/kr/themes-ranking/" target="_blank">워드프레스 인기 테마 실시간 순위(랭킹) 및 추천 유료/무료 테마 최신 정보</a></p>
+<li><p><a href="https://www.wp-talk.com/kr/examples-woocommerce/" target="_blank">워드프레스 우커머스(WooCommerce)로 제작된 쇼핑몰 구축 사례/예시 모음(한국/일본/중국/미국/유럽 등) 및 간편 확인 방법</a></p>
+</li>
+<li><p><a href="https://www.wp-talk.com/kr/themes-ranking/" target="_blank">워드프레스 인기 테마 실시간 다운로드/판매 순위(랭킹) 및 추천 유료/무료 테마 최신 정보</a></p>
 </li>
 <li><p><a href="https://www.wp-talk.com/kr/analytics-usage/" target="_blank">워드프레스 애널리틱스 (WordPress Analytics) : 외부 웹사이트/쇼핑몰이 사용 중인 호스팅, 테마, 플러그인, 제작사 정보 간편 확인 방법</a></p>
 </li>
@@ -271,11 +269,9 @@
 </li>
 <li><p><a href="https://www.wp-talk.com/kr/wordpress-faq/" target="_blank">워드프레스 사용자들이 자주 찾는 질문(FAQ) 모음 총정리</a></p>
 </li>
-<li><p><a href="https://www.wp-talk.com/kr/must-read/" target="_blank">워드프레스 초보자가 알아두면 좋은 추천 글 모음</a></p>
-</li>
 <li><p><a href="https://www.wp-talk.com/kr/hosting/" target="_blank">워드프레스 설치에 최적화된 추천 호스팅 서비스 모음</a></p>
 </li>
-<li><p><a href="https://coupa.ng/bgHJQN" target="_blank">워 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a></p>
+<li><p><a href="https://coupa.ng/bgHJQN" target="_blank">워드프레스 책으로 보다 체계적으로 학습하기 - 쿠팡(웹/모바일앱)</a></p>
 </li>
 <li><p><a href="https://coupa.ng/bgOdk3" target="_blank">최신 노트북/컴퓨터 추천 상품 목록 보러 가기 - 쿠팡(웹/모바일앱)</a></p>
 </li>
@@ -333,15 +329,10 @@
     
     <nav id="gobottom" class="pagination">
       
-        <a class="prev-post" title="워드프레스 로그인 페이지 접속시 다른 페이지로 자동 이동시키는 방법 - 워드프레스웹코리아" href="/wordpress-wp-login-page-redirect-automatically/">
-          ←
-          워드프레스 로그인 페이지 접속시 다른 페이지로 자동 이동시키는 방법 - 워드프레스웹코리아
-        </a>
-      
       <span class="prev-next-post">·</span>
       
-        <a class="next-post" title="워드프레스 오른쪽 마우스 버튼 클릭 및 복사 방지 기능 간편하게 추가하는 방법 - 워드프레스웹코리아" href="/wordpress-disable-right-mouse-click-copy-paste/">
-          워드프레스 오른쪽 마우스 버튼 클릭 및 복사 방지 기능 간편하게 추가하는 방법 - 워드프레스웹코리아
+        <a class="next-post" title="워드프레스 테마 실시간 다운로드 순위/랭킹 및 추천 인기 유료/무료 테마 최신 정보 [업데이트] - 워드프레스웹코리아" href="/wordpress-themes-ranking-updated/">
+          워드프레스 테마 실시간 다운로드 순위/랭킹 및 추천 인기 유료/무료 테마 최신 정보 [업데이트] - 워드프레스웹코리아
           →
         </a>
       
@@ -541,7 +532,7 @@
         </a>
     </div>
     <span class="floating-header-divider">&mdash;</span>
-    <div class="floating-header-title">워드프레스 검색 결과 페이지에서 특정 글/페이지를 제외하는 방법 - 워드프레스웹코리아</div>
+    <div class="floating-header-title">워드프레스 푸터의 카피라이트 정보를 현재 시간(년도)으로 자동 업데이트 표시 방법 - 워드프레스웹코리아</div>
     <progress class="progress" value="0">
         <span class="progress-container">
             <span class="progress-bar"></span>
