@@ -40,7 +40,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/install-wordpress-local-webserver-wptalk/</loc>
+        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
         <lastmod>2020-10-10T11:41:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -48,7 +48,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
+        <loc>https://news.wp-kr.com/install-wordpress-local-webserver-wptalk/</loc>
         <lastmod>2020-10-10T11:41:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -128,7 +128,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-sale-usage/</loc>
+        <loc>https://news.wp-kr.com/wordpress-rest-api-fetch-content/</loc>
         <lastmod>2020-10-10T11:41:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -136,7 +136,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-rest-api-fetch-content/</loc>
+        <loc>https://news.wp-kr.com/wordpress-sale-usage/</loc>
         <lastmod>2020-10-10T11:41:59.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
