@@ -2,10 +2,12 @@ $(document).ready(function(){
     $(window).scroll(function () {
        if ($(this).scrollTop() > 50) {
          $('#chat-button').fadeIn();
+         $('#browser-print').fadeIn();
          $('#back-to-top').fadeIn();
          $('#footer-banner').fadeIn();
        } else {
          $('#chat-button').fadeOut();
+         $('#browser-print').fadeOut();
          $('#back-to-top').fadeOut();
          $('#footer-banner').fadeOut();
        }

@@ -83,6 +83,29 @@ body {
 	}
 }
 
+#browser-print {
+    cursor: pointer;
+    position: fixed;
+		background-color: #333;
+    bottom: 105px;
+    right: 20px;
+    display: none;
+		padding: 9px 13px;
+    border-radius: 50%;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    outline: none;
+    opacity: 1;
+    z-index: 99999;
+}
+
+@media screen and (max-width: 760px) {
+	#browser-print {
+		bottom: 125px;
+	}
+}
+
 code {
   color: #92388f !important;
 }
@@ -90,7 +113,7 @@ code {
 #chat-button {
     cursor: pointer;
     position: fixed;
-    bottom: 105px;
+    bottom: 152px;
     right: 20px;
     display: none;
     border-radius: 50%;
@@ -103,7 +126,7 @@ code {
 
 @media screen and (max-width: 760px) {
 	#chat-button {
-		bottom: 125px;
+		bottom: 172px;
 	}
 }
 
