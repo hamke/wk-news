@@ -11,7 +11,7 @@ fetch(themes_envato_free)
       if ( t < wptalk_themes_free_result ) {
         // console.log(wptalk_themes_free_result[t]);
         output_themes_free +=
-        '<li><a href="' + wptalk_themes_free_result[t].url + '" target="_blank" class="">' + wptalk_themes_free_result[t].name + '</a></li>';
+        '<li><a href="' + wptalk_themes_free_result[t].url + '" target="_blank" class="">' + wptalk_themes_free_result[t].name + '</a> ( <s>' + wptalk_themes_free_result[t].price + '</s> -> <b>0.00 USD</b> )</li>';
       }
     }
     output_themes_free += '<hr>';
@@ -30,7 +30,7 @@ fetch(themes_envato_sale)
       if ( t < wptalk_themes_sale_result ) {
         // console.log(wptalk_themes_sale_result[t]);
         output_themes_sale +=
-        '<li><a href="' + wptalk_themes_sale_result[t].url + '" target="_blank" class="">' + wptalk_themes_sale_result[t].name + '</a></li>';
+        '<li><a href="' + wptalk_themes_sale_result[t].url + '" target="_blank" class="">' + wptalk_themes_sale_result[t].name + '</a> ( <b>' + wptalk_themes_sale_result[t].price_sale + ' USD</b> )</li>';
       }
     }
     output_themes_sale += '<hr>';
