@@ -5,13 +5,13 @@ fetch(themes_envato_free)
 .then(res => res.json())
 .then(wptalk_themes_free_result => {
   if ( wptalk_themes_free_result !== null && wptalk_themes_free_result !== '') {
-    let output_themes_free = '';
+    let output_themes_free = '◼︎ 워드프레스 테마 실시간 프로모션 (무료)';
     for (let t in wptalk_themes_free_result) {
       id = Number(t) + 1;
       if ( t < wptalk_themes_free_result ) {
         // console.log(wptalk_themes_free_result[t]);
         output_themes_free +=
-        '<ul><a href="' + wptalk_themes_free_result[t].url + '" target="_blank" class="">' + wptalk_themes_free_result[t].name + '</a></ul>';
+        '<li><a href="' + wptalk_themes_free_result[t].url + '" target="_blank" class="">' + wptalk_themes_free_result[t].name + '</a></li>';
       }
     }
     output_themes_free += '<hr>';
@@ -24,13 +24,13 @@ fetch(themes_envato_sale)
 .then(wptalk_themes_sale_result => {
   // console.log(wptalk_themes_sale_result);
   if ( wptalk_themes_sale_result !== null && wptalk_themes_sale_result !== '') {
-    let output_themes_sale = '';
+    let output_themes_sale = '◼︎ 워드프레스 테마 실시간 프로모션 (할인)';
     for (let t in wptalk_themes_sale_result) {
       id = Number(t) + 1;
       if ( t < wptalk_themes_sale_result ) {
         // console.log(wptalk_themes_sale_result[t]);
         output_themes_sale +=
-        '<ul><a href="' + wptalk_themes_sale_result[t].url + '" target="_blank" class="">' + wptalk_themes_sale_result[t].name + '</a></ul>';
+        '<li><a href="' + wptalk_themes_sale_result[t].url + '" target="_blank" class="">' + wptalk_themes_sale_result[t].name + '</a></li>';
       }
     }
     output_themes_sale += '<hr>';
