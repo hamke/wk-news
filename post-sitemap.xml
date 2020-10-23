@@ -8,6 +8,30 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
+        <lastmod>2020-10-23T09:07:32.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-footer-copyright-current-year-auto-update/</loc>
+        <lastmod>2020-10-18T16:38:48.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
+        <lastmod>2020-10-18T16:31:28.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
         <lastmod>2020-10-17T17:42:21.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -96,14 +120,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
-        <lastmod>2020-10-17T17:40:39.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-examples-woocommerce-all-list/</loc>
         <lastmod>2020-10-17T17:40:29.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -128,24 +144,8 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
-        <lastmod>2020-10-17T17:39:58.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-faq-for-users/</loc>
         <lastmod>2020-10-17T17:39:38.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-footer-copyright-current-year-auto-update/</loc>
-        <lastmod>2020-10-17T17:39:16.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
