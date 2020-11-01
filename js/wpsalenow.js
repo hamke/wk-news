@@ -1,5 +1,6 @@
 const themes_envato_free = 'https://www.wpsalenow.com/api/envato/themes/free/';
 const themes_envato_sale = 'https://www.wpsalenow.com/api/envato/themes/sale/';
+const plugins_envato_sale = 'https://www.wpsalenow.com/api/envato/plugins/sale/';
 
 fetch(themes_envato_free)
 .then(res => res.json())
@@ -35,5 +36,24 @@ fetch(themes_envato_sale)
     }
     output_themes_sale += '<hr>';
     document.getElementById('wpsalenow-themes-sale').innerHTML = output_themes_sale;
+  }
+})
+
+fetch(plugins_envato_sale)
+.then(res => res.json())
+.then(wptalk_plugins_sale_result => {
+  // console.log(wptalk_plugins_sale_result);
+  if ( wptalk_plugins_sale_result !== null && wptalk_plugins_sale_result !== '') {
+    let output_plugins_sale = '<h2>◼︎ 워드프레스 플러그인 실시간 프로모션 (할인)</h2>';
+    for (let t in wptalk_plugins_sale_result) {
+      id = Number(t) + 1;
+      if ( t < wptalk_plugins_sale_result ) {
+        // console.log(wptalk_plugins_sale_result[t]);
+        output_plugins_sale +=
+        '<li><a href="' + wptalk_plugins_sale_result[t].url + '" target="_blank" class="">' + wptalk_plugins_sale_result[t].name + '</a> ( <b>' + wptalk_plugins_sale_result[t].price_sale + ' USD</b> )</li>';
+      }
+    }
+    output_plugins_sale += '<hr>';
+    document.getElementById('wpsalenow-plugins-sale').innerHTML = output_plugins_sale;
   }
 })
