@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-cafe24-hosting-auto-install/</loc>
+        <lastmod>2020-11-09T12:03:52.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-examples-woocommerce-all-list/</loc>
         <lastmod>2020-11-06T23:18:22.000Z</lastmod>
         <changefreq>weekly</changefreq>
