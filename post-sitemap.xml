@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
+        <lastmod>2020-11-10T05:14:57.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-themes-ranking-updated/</loc>
         <lastmod>2020-11-10T02:16:53.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -162,14 +170,6 @@
     <url>
         <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
         <lastmod>2020-11-01T08:00:16.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
-        <lastmod>2020-11-01T08:00:06.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
