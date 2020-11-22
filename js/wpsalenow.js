@@ -1,6 +1,7 @@
 const themes_envato_free = 'https://www.wpsalenow.com/api/envato/themes/free/';
 const themes_envato_sale = 'https://www.wpsalenow.com/api/envato/themes/sale/';
 const plugins_envato_sale = 'https://www.wpsalenow.com/api/envato/plugins/sale/';
+const hosting_api_sale = 'https://www.wpsalenow.com/api/hosting/sale/';
 
 fetch(themes_envato_free)
 .then(res => res.json())
@@ -61,6 +62,27 @@ fetch(plugins_envato_sale)
     // console.log(output_plugins_sale);
     if ( output_plugins_sale !== '' ) {
       document.getElementById('wpsalenow-plugins-sale').innerHTML = '<h2>◼︎ 워드프레스 플러그인 실시간 프로모션 (할인)</h2>' + output_plugins_sale + '<hr>';
+    }
+  }
+})
+
+fetch(hosting_api_sale)
+.then(res => res.json())
+.then(wptalk_hosting_sale_result => {
+  // console.log(wptalk_hosting_sale_result);
+  if ( wptalk_hosting_sale_result !== null && wptalk_hosting_sale_result !== '') {
+    let output_hosting_sale = '';
+    for (let t in wptalk_hosting_sale_result) {
+      id = Number(t) + 1;
+      if ( t < wptalk_hosting_sale_result ) {
+        // console.log(wptalk_hosting_sale_result[t]);
+        output_hosting_sale +=
+        '<li><a href="' + wptalk_hosting_sale_result[t].url + '" target="_blank" class="">' + wptalk_hosting_sale_result[t].name + ' - ' + wptalk_hosting_sale_result[t].description + '</a></li>';
+      }
+    }
+    // console.log(output_hosting_sale);
+    if ( output_hosting_sale !== '' ) {
+      document.getElementById('wpsalenow-hosting-sale').innerHTML = '<h2>◼︎ 워드프레스 호스팅 실시간 프로모션 (할인)</h2>' + output_hosting_sale + '<hr>';
     }
   }
 })
