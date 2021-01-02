@@ -345,7 +345,7 @@ fetch(themes_wp_org_popular)
     '<p>현재 <b>워드프레스 레포지토리에 등록/승인되어 있는 테마 갯수</b>는 총 <a href="https://wordpress.org/themes/" target="_blank" rel="noreferrer"><b>' + wptalk_themes_result.info.results.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, "$1,") + '</b></a>개입니다.</p>';
 
   let output_themes =
-    '<table><thead><tr><th>순서</th><th>이름</th><th>버전</th><th>평점</th><th>링크</th></thead><tbody>';
+    '<table><thead><tr><th>순위</th><th>이름</th><th>버전</th><th>평점</th><th>링크</th></thead><tbody>';
 
   for (let t in wptalk_themes_result.themes) {
     id = Number(t) + 1;
@@ -376,7 +376,7 @@ fetch(themes_envato_popular)
 .then(wptalk_themes_popular_result => {
   <!-- console.log(wptalk_themes_popular_result); -->
   let output_themes_popular =
-    '<table><thead><tr><th>순서</th><th>이름</th><th>가격(USD)</th><th>판매량</th><th>평점</th><th>링크</th></thead><tbody>';
+    '<table><thead><tr><th>순위</th><th>이름</th><th>가격(USD)</th><th>판매량</th><th>평점</th><th>링크</th></thead><tbody>';
   for (let t in wptalk_themes_popular_result) {
     id = Number(t) + 1;
     if ( t < 20 ) {
