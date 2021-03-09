@@ -364,7 +364,7 @@ fetch(themes_wp_org_popular)
         '</td><td>' +
         wptalk_themes_result.themes[t].version +
         '</td><td>' +
-        wptalk_themes_result.themes[t].rating + '/100' +
+        parseInt(wptalk_themes_result.themes[t].rating) + '/100' +
         '</td><td>' +
         '<a href="' + wptalk_themes_result.themes[t].homepage + '" target="_blank" rel="noopener noreferrer"_>자세히 보기</a>' +
         '</td></tr>';
