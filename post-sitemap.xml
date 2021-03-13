@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-faq-for-users/</loc>
+        <lastmod>2021-03-13T20:58:55.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
         <lastmod>2021-03-11T15:12:02.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -32,22 +40,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-cafe24-hosting-auto-install/</loc>
-        <lastmod>2021-03-11T13:47:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-must-know-online-tool-sites/</loc>
-        <lastmod>2021-03-11T13:47:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-search-results-exclude-posts/</loc>
         <lastmod>2021-03-11T13:47:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -64,7 +56,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-examples-woocommerce-all-list/</loc>
+        <loc>https://news.wp-kr.com/wordpress-cafe24-hosting-auto-install/</loc>
         <lastmod>2021-03-11T13:47:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -72,7 +64,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-install-local-computer-bitnami/</loc>
+        <loc>https://news.wp-kr.com/wordpress-must-know-online-tool-sites/</loc>
         <lastmod>2021-03-11T13:47:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -96,7 +88,15 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
+        <loc>https://news.wp-kr.com/wordpress-examples-woocommerce-all-list/</loc>
+        <lastmod>2021-03-11T13:47:01.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2021-03-11T13:47:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -112,8 +112,8 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-faq-for-users/</loc>
-        <lastmod>2021-03-08T16:21:39.000Z</lastmod>
+        <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
+        <lastmod>2021-03-11T13:47:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
