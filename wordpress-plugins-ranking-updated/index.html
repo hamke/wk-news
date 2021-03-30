@@ -352,13 +352,19 @@ fetch(plugins_wp_org_popular)
     '<table><thead><tr><th>순위</th><th>이름</th><th>버전</th><th>평점</th><th>링크</th></thead><tbody>';
 
   for (let t in wptalk_plugins_result.plugins) {
+    let wp_org_plugin_url = '';
+    if ( wptalk_plugins_result.plugins[t].slug == 'elementor' ) {
+      wp_org_plugin_url = 'https://www.wp-talk.com/go/elementor/';
+    } else {
+      wp_org_plugin_url = 'https://wordpress.org/plugins/' + wptalk_plugins_result.plugins[t].slug;
+    }
     id = Number(t) + 1;
     if ( t < 20 ) {
       output_plugins +=
         '<tr><td>' +
         id +
         '</td><td>' +
-        '<a href="https://wordpress.org/plugins/' + wptalk_plugins_result.plugins[t].slug + '/" target="_blank" rel="noopener noreferrer"_>' +
+        '<a href="' + wp_org_plugin_url + '" target="_blank" rel="noopener noreferrer"_>' +
         truncate(wptalk_plugins_result.plugins[t].name, 30) +
         '</a>' +
         '</td><td>' +
@@ -366,7 +372,7 @@ fetch(plugins_wp_org_popular)
         '</td><td>' +
         parseInt(wptalk_plugins_result.plugins[t].rating) + '/100' +
         '</td><td>' +
-        '<a href="https://wordpress.org/plugins/' + wptalk_plugins_result.plugins[t].slug + '/" target="_blank" rel="noopener noreferrer"_>자세히 보기</a>' +
+        '<a href="' + wp_org_plugin_url + '" target="_blank" rel="noopener noreferrer"_>자세히 보기</a>' +
         '</td></tr>';
     }
   }
