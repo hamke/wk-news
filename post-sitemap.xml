@@ -9,7 +9,7 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-plugins-ranking-updated/</loc>
-        <lastmod>2021-03-30T03:47:33.000Z</lastmod>
+        <lastmod>2021-03-30T03:53:04.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -96,14 +96,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-examples-woocommerce-all-list/</loc>
-        <lastmod>2021-03-11T13:47:01.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-install-local-computer-bitnami/</loc>
         <lastmod>2021-03-11T13:47:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -113,6 +105,14 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-themeforest-envato-register/</loc>
+        <lastmod>2021-03-11T13:47:01.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-examples-woocommerce-all-list/</loc>
         <lastmod>2021-03-11T13:47:01.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
