@@ -8,6 +8,38 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-start-guide/</loc>
+        <lastmod>2021-06-24T09:50:20.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
+        <lastmod>2021-06-23T17:01:54.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-cafe24-hosting-auto-install/</loc>
+        <lastmod>2021-06-23T16:45:09.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
+        <lastmod>2021-06-23T14:52:35.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-hosting-recommendation/</loc>
         <lastmod>2021-06-19T23:59:09.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -18,14 +50,6 @@
     <url>
         <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
         <lastmod>2021-06-12T17:36:26.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
-        <lastmod>2021-05-20T02:42:25.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -152,14 +176,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-cafe24-hosting-auto-install/</loc>
-        <lastmod>2021-03-30T04:00:02.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
         <lastmod>2021-03-30T03:59:56.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -194,14 +210,6 @@
     <url>
         <loc>https://news.wp-kr.com/china-website-loading-speed-slow/</loc>
         <lastmod>2021-03-30T03:59:20.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
-        <lastmod>2021-03-30T03:59:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
