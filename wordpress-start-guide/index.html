@@ -230,11 +230,12 @@
 <li><a href="#index-wordpress-analytics">13. 워드프레스 사이트 숨은 정보 간편 확인 방법</a></li>
 <li><a href="#index-send-email-sms">14. 워드프레스로 이메일/SMS 문자 보내는 방법</a></li>
 <li><a href="#index-contact-form">15. 워드프레스 문의 폼으로 고객 데이터 받는 방법</a></li>
-<li><a href="#index-make-shop">16. 워드프레스로 쇼핑몰 제작 방법</a></li>
-<li><a href="#index-make-lms">17. 워드프레스로 온라인 강의 사이트(LMS) 제작 방법</a></li>
-<li><a href="#index-functions-php">18. 워드프레스 사이트 기능 추가/수정 방법 (functions.php)</a></li>
-<li><a href="#index-resolve-errors">19. 워드프레스 에러 오류 발생시 문제 진단/대처 및 신속 해결 방법</a></li>
-<li><a href="#index-data-crud">20. 워드프레스 데이터 통신 방법 (REST API, AJAX 등)</a></li>
+<li><a href="#index-functions-php">16. 워드프레스 사이트 기능 추가/수정 방법 (functions.php)</a></li>
+<li><a href="#index-make-shop">17. 워드프레스로 쇼핑몰 제작 방법</a></li>
+<li><a href="#index-make-lms">18. 워드프레스로 온라인 강의 사이트(LMS) 제작 방법</a></li>
+<li><a href="#index-make-community">19. 워드프레스로 온라인 커뮤니티 사이트 제작 방법</a></li>
+<li><a href="#index-resolve-errors">20. 워드프레스 에러 오류 발생시 문제 진단/대처 및 신속 해결 방법</a></li>
+<li><a href="#index-data-crud">21. 워드프레스 데이터 통신 방법 (REST API, AJAX 등)</a></li>
 <li><a href="#index-epilogue">맺음말</a></li>
 <li><a href="#recommendation">도움이 될 만한 연관 추천 글</a></li>
 </ul>
@@ -584,8 +585,20 @@
 <hr>
 <p>[참고] <a href="https://wordpress.org/plugins/contact-form-7/" target="_blank">컨택트 폼 7 (Contact Form 7) 플러그인 : 자세히 보기 + 다운로드</a></p>
 <hr>
+<p><a name="index-functions-php"></a></p>
+<h2 id="16-워드프레스-사이트-기능-추가-수정-방법-functions-php"><a href="#16-워드프레스-사이트-기능-추가-수정-방법-functions-php" class="headerlink" title="16. 워드프레스 사이트 기능 추가/수정 방법 (functions.php) "></a>16. 워드프레스 사이트 기능 추가/수정 방법 (functions.php) <a href="#index" style="float:right; vertical-align:sub; font-size:0.7em;"><i class="fas fa-arrow-up"></i></a></h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-logo-wpkr-news-footer-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+
+<p><strong>“functions.php 파일”은 워드프레스(WordPress) 구동과 기능 확장에 필요한 함수(Functions)를 일률적으로 모아서 정리해 놓은, 워드프레스 활용에 반드시 필요한 핵심 파일</strong> 중 하나입니다.</p>
+<p><strong>functions.php 파일 내에 다양한 코드 조각(스니펫, Snippets)을 입력</strong>하여, 플러그인(Plugin)이 없어도 워드프레스 내의 <strong>원하는 부분을 커스터마이징하고 기능을 확장</strong>할 수 있습니다.</p>
+<p>functions.php 파일을 활용하면, 대부분의 플러그인(Plugin)이 발생시키는 <strong>각종 불필요한 데이터베이스 쿼리(Query) 등을 줄일 수 있어서, 웹사이트의 퍼포먼스(속도 등) 향상에도 도움</strong>이 될 수 있습니다.</p>
+<p>functions.php 파일 수정 등을 통한 PHP 코드 입력이 어렵거나 번거롭게 느껴질 경우, <strong>‘코드 스니펫(Code Snippets)’ 워드프레스 플러그인을 설치해서 원하는 코드를 보다 간편하게 입력</strong>할 수도 있습니다.</p>
+<p><strong>‘코드 스니펫(Code Snippets)’ 워드프레스 플러그인</strong> 내의 PHP 코드는 ‘wp_snippets’란 워드프레스 데이터베이스(DB) 테이블에 보관되기 때문에, <strong>테마(Theme)가 변경되어도 그대로 사용</strong>할 수 있는 장점이 있습니다.</p>
+<hr>
+<p>[참고] <a href="https://blog.naver.com/wp-kr/222323034519" target="_blank">워드프레스 functions.php 파일 신규 함수(기능) 추가 및 활용 방법</a></p>
+<p>[참고] <a href="https://blog.naver.com/wp-kr/222334848810" target="_blank">워드프레스 플러그인 ‘코드 스니펫(Code Snippets)’ 소개 및 활용 방법</a></p>
+<hr>
 <p><a name="index-make-shop"></a></p>
-<h2 id="16-워드프레스로-쇼핑몰-제작-방법"><a href="#16-워드프레스로-쇼핑몰-제작-방법" class="headerlink" title="16. 워드프레스로 쇼핑몰 제작 방법 "></a>16. 워드프레스로 쇼핑몰 제작 방법 <a href="#index" style="float:right; vertical-align:sub; font-size:0.7em;"><i class="fas fa-arrow-up"></i></a></h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-logo-wpkr-news-footer-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<h2 id="17-워드프레스로-쇼핑몰-제작-방법"><a href="#17-워드프레스로-쇼핑몰-제작-방법" class="headerlink" title="17. 워드프레스로 쇼핑몰 제작 방법 "></a>17. 워드프레스로 쇼핑몰 제작 방법 <a href="#index" style="float:right; vertical-align:sub; font-size:0.7em;"><i class="fas fa-arrow-up"></i></a></h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-logo-wpkr-news-footer-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 <p><strong>워드프레스(WordPress)로 쇼핑몰을 구축</strong>하기 위해서는, <a href="https://www.wp-talk.com/go/plugin/woocommerce/" target="_blank">우커머스(WooCommerce) 플러그인</a>을 설치해서 필요한 기능을 추가할 수 있습니다.</p>
 <p><strong>우커머스(WooCommerce) 플러그인</strong>은 <strong>오토매틱(Automattic Inc.)사에서 운영/개발/관리하는 플러그인</strong>으로, 워드프레스 사이트에 <strong>판매 상품 및 재고 정보 관리, 결제 기능 추가, 주문 관리 기능 등을 간편하게 추가</strong>하여 사용할 수 있는 장점이 있습니다.</p>
@@ -600,7 +613,7 @@
 <p>[참고] <a href="https://blog.naver.com/desource/222339967411" target="_blank">워드프레스 SMS 문자/이메일 자동 발송 기능으로 온라인 판매(자판기) 시스템 구축/제작 방법</a></p>
 <hr>
 <p><a name="index-make-lms"></a></p>
-<h2 id="17-워드프레스로-온라인-강의-사이트-LMS-제작-방법"><a href="#17-워드프레스로-온라인-강의-사이트-LMS-제작-방법" class="headerlink" title="17. 워드프레스로 온라인 강의 사이트(LMS) 제작 방법 "></a>17. 워드프레스로 온라인 강의 사이트(LMS) 제작 방법 <a href="#index" style="float:right; vertical-align:sub; font-size:0.7em;"><i class="fas fa-arrow-up"></i></a></h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-logo-wpkr-news-footer-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<h2 id="18-워드프레스로-온라인-강의-사이트-LMS-제작-방법"><a href="#18-워드프레스로-온라인-강의-사이트-LMS-제작-방법" class="headerlink" title="18. 워드프레스로 온라인 강의 사이트(LMS) 제작 방법 "></a>18. 워드프레스로 온라인 강의 사이트(LMS) 제작 방법 <a href="#index" style="float:right; vertical-align:sub; font-size:0.7em;"><i class="fas fa-arrow-up"></i></a></h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-logo-wpkr-news-footer-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 <p>워드프레스(WordPress) 사이트를 운영 중이라면, 다양한 <strong>온라인 강의 사이트(LMS, Learning Management System) 관련 플러그인을 설치</strong>해서, 까다로운 입점 절차와 수수료 없이, <strong>나만의 교육/강좌/레슨 콘텐츠를 자유롭게 브랜딩 및 판매</strong>할 수 있습니다.</p>
 <ul>
@@ -612,20 +625,32 @@
 </li>
 </ul>
 <hr>
-<p><a name="index-functions-php"></a></p>
-<h2 id="18-워드프레스-사이트-기능-추가-수정-방법-functions-php"><a href="#18-워드프레스-사이트-기능-추가-수정-방법-functions-php" class="headerlink" title="18. 워드프레스 사이트 기능 추가/수정 방법 (functions.php) "></a>18. 워드프레스 사이트 기능 추가/수정 방법 (functions.php) <a href="#index" style="float:right; vertical-align:sub; font-size:0.7em;"><i class="fas fa-arrow-up"></i></a></h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-logo-wpkr-news-footer-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<p><a name="index-make-community"></a></p>
+<h2 id="19-워드프레스로-온라인-커뮤니티-사이트-제작-방법"><a href="#19-워드프레스로-온라인-커뮤니티-사이트-제작-방법" class="headerlink" title="19. 워드프레스로 온라인 커뮤니티 사이트 제작 방법 "></a>19. 워드프레스로 온라인 커뮤니티 사이트 제작 방법 <a href="#index" style="float:right; vertical-align:sub; font-size:0.7em;"><i class="fas fa-arrow-up"></i></a></h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-logo-wpkr-news-footer-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
-<p><strong>“functions.php 파일”은 워드프레스(WordPress) 구동과 기능 확장에 필요한 함수(Functions)를 일률적으로 모아서 정리해 놓은, 워드프레스 활용에 반드시 필요한 핵심 파일</strong> 중 하나입니다.</p>
-<p><strong>functions.php 파일 내에 다양한 코드 조각(스니펫, Snippets)을 입력</strong>하여, 플러그인(Plugin)이 없어도 워드프레스 내의 <strong>원하는 부분을 커스터마이징하고 기능을 확장</strong>할 수 있습니다.</p>
-<p>functions.php 파일을 활용하면, 대부분의 플러그인(Plugin)이 발생시키는 <strong>각종 불필요한 데이터베이스 쿼리(Query) 등을 줄일 수 있어서, 웹사이트의 퍼포먼스(속도 등) 향상에도 도움</strong>이 될 수 있습니다.</p>
-<p>functions.php 파일 수정 등을 통한 PHP 코드 입력이 어렵거나 번거롭게 느껴질 경우, <strong>‘코드 스니펫(Code Snippets)’ 워드프레스 플러그인을 설치해서 원하는 코드를 보다 간편하게 입력</strong>할 수도 있습니다.</p>
-<p><strong>‘코드 스니펫(Code Snippets)’ 워드프레스 플러그인</strong> 내의 PHP 코드는 ‘wp_snippets’란 워드프레스 데이터베이스(DB) 테이블에 보관되기 때문에, <strong>테마(Theme)가 변경되어도 그대로 사용</strong>할 수 있는 장점이 있습니다.</p>
-<hr>
-<p>[참고] <a href="https://blog.naver.com/wp-kr/222323034519" target="_blank">워드프레스 functions.php 파일 신규 함수(기능) 추가 및 활용 방법</a></p>
-<p>[참고] <a href="https://blog.naver.com/wp-kr/222334848810" target="_blank">워드프레스 플러그인 ‘코드 스니펫(Code Snippets)’ 소개 및 활용 방법</a></p>
+<p><strong>워드프레스(WordPress)로 온라인 커뮤니티 사이트를 제작</strong>하기 위해서는 워드프레스의 기본 기능에 다음과 같은 기능이 추가되어야 합니다.</p>
+<ul>
+<li><strong>회원 관리 기능</strong> (커스텀 로그인/회원가입, 비밀번호 재설정, 회원 정보 페이지 생성 등)</li>
+<li><strong>프론트엔드(Frontend)에서 게시글 작성/수정/삭제 및 게시판 관리</strong> 기능</li>
+</ul>
+<p>위와 같은 기능을 추가하기 위해서 다음과 같은 <strong>워드프레스 플러그인</strong>를 활용할 수 있습니다. (일부 <strong>커스터마이징(코드 수정) 작업이 필요</strong>할 수 있습니다.)</p>
+<h3 id="1-회원-관리-기능"><a href="#1-회원-관리-기능" class="headerlink" title="(1) 회원 관리 기능"></a>(1) 회원 관리 기능</h3><ul>
+<li><a href="https://www.wp-talk.com/go/plugin/ultimate-member/" target="_blank">얼티밋 멤버 (Ultimate Member)</a></li>
+<li><a href="https://www.wp-talk.com/plugins/?name=wp-members" target="_blank">워드프레스 멤버스 (WP-Members)</a></li>
+<li><a href="https://www.wp-talk.com/plugins/?name=simple-membership" target="_blank">심플 멤버쉽 (Simple Membership)</a></li>
+<li><a href="https://www.wp-talk.com/go/plugin/restrict-content-pro/" target="_blank">리스트릭트 콘텐츠 프로 (Restrict Content Pro)</a></li>
+</ul>
+<h3 id="2-프론트엔드-Frontend-에서-게시글-작성-수정-삭제-및-게시판-관리-기능"><a href="#2-프론트엔드-Frontend-에서-게시글-작성-수정-삭제-및-게시판-관리-기능" class="headerlink" title="(2) 프론트엔드(Frontend)에서 게시글 작성/수정/삭제 및 게시판 관리 기능"></a>(2) 프론트엔드(Frontend)에서 게시글 작성/수정/삭제 및 게시판 관리 기능</h3><ul>
+<li><a href="https://www.wp-talk.com/plugins/?name=forumwp/" target="_blank">포럼 WP (ForumWP)</a></li>
+<li><a href="https://www.wp-talk.com/plugins/?name=wp-discussion-board/" target="_blank">디스커션 보드 (Discussion Board)</a></li>
+<li><a href="https://www.wp-talk.com/plugins/?name=wp-user-frontend/" target="_blank">워드프레스 유저 프론트엔드 (WP User Frontend)</a></li>
+<li><a href="https://www.cosmosfarm.com/products/kboard" target="_blank" rel="noreferrer">케이보드 (KBoard)</a> - 한국형 게시판 플러그인</li>
+<li><a href="https://www.mangboard.com/" target="_blank" rel="noreferrer">망보드 (MangBoard)</a> - 한국형 게시판 플러그인</li>
+<li><a href="https://danbistore.com/item/rainboard" target="_blank" rel="noreferrer">망보드 (MangBoard)</a> - 한국형 게시판 플러그인</li>
+</ul>
 <hr>
 <p><a name="index-resolve-errors"></a></p>
-<h2 id="19-워드프레스-에러-오류-발생시-문제-진단-대처-및-신속-해결-방법"><a href="#19-워드프레스-에러-오류-발생시-문제-진단-대처-및-신속-해결-방법" class="headerlink" title="19. 워드프레스 에러 오류 발생시 문제 진단/대처 및 신속 해결 방법 "></a>19. 워드프레스 에러 오류 발생시 문제 진단/대처 및 신속 해결 방법 <a href="#index" style="float:right; vertical-align:sub; font-size:0.7em;"><i class="fas fa-arrow-up"></i></a></h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-logo-wpkr-news-footer-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<h2 id="20-워드프레스-에러-오류-발생시-문제-진단-대처-및-신속-해결-방법"><a href="#20-워드프레스-에러-오류-발생시-문제-진단-대처-및-신속-해결-방법" class="headerlink" title="20. 워드프레스 에러 오류 발생시 문제 진단/대처 및 신속 해결 방법 "></a>20. 워드프레스 에러 오류 발생시 문제 진단/대처 및 신속 해결 방법 <a href="#index" style="float:right; vertical-align:sub; font-size:0.7em;"><i class="fas fa-arrow-up"></i></a></h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-logo-wpkr-news-footer-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 <p>워드프레스(WordPress) 기반의 홈페이지/쇼핑몰/블로그/커뮤니티 사이트를 운영하다보면, <strong>알 수 없는 오류/에러가 발생</strong>하는 경우가 있습니다. 특히 <strong>워드프레스에 익숙하지 않은 입문/초보자일 경우, 처음 접하는 상황에 매우 당황</strong>스러울 수 있습니다.</p>
 <p>오류/에러가 발생하여 운영 중인 <strong>워드프레스 사이트가 제대로 작동하지 않을 때, 왜 문제가 발생하는지 간단하게 진단</strong>할 수 있는 방법이 있습니다.</p>
@@ -645,7 +670,7 @@
 <p>[참고] <a href="https://blog.naver.com/wp-kr/222060254527" target="_blank">워드프레스 에러 오류 발생시 문제 진단/대처 및 신속 해결 방법</a></p>
 <hr>
 <p><a name="index-data-crud"></a></p>
-<h2 id="20-워드프레스-데이터-통신-방법-REST-API-AJAX-등"><a href="#20-워드프레스-데이터-통신-방법-REST-API-AJAX-등" class="headerlink" title="20. 워드프레스 데이터 통신 방법 (REST API, AJAX 등) "></a>20. 워드프레스 데이터 통신 방법 (REST API, AJAX 등) <a href="#index" style="float:right; vertical-align:sub; font-size:0.7em;"><i class="fas fa-arrow-up"></i></a></h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-logo-wpkr-news-footer-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
+<h2 id="21-워드프레스-데이터-통신-방법-REST-API-AJAX-등"><a href="#21-워드프레스-데이터-통신-방법-REST-API-AJAX-등" class="headerlink" title="21. 워드프레스 데이터 통신 방법 (REST API, AJAX 등) "></a>21. 워드프레스 데이터 통신 방법 (REST API, AJAX 등) <a href="#index" style="float:right; vertical-align:sub; font-size:0.7em;"><i class="fas fa-arrow-up"></i></a></h2><center><a href="https://www.wp-talk.com/kakao/" target="_blank"><img src="https://hellotblog.files.wordpress.com/2020/08/wptalk-wordpress-logo-wpkr-news-footer-80x80-1.png" style="max-width:100%;" alt="워드프레스웹코리아(WP-KR.COM)"></a></center>
 
 <p>최근 <strong>자바스크립트 기반의 프론트엔드 프레임워크(React, Vue.js 등)가 빠르게 발전</strong>하면서, 워드프레스(WordPress)도 기존과는 다른 <strong>새로운 형태의 콘텐츠(데이터) 관리 시스템 형태로 신속하게 진화하여 대응</strong>하고 있습니다.</p>
 <p><strong>워드프레스(WordPress)</strong>는 웹프로그래밍 기술의 변화 트렌드에 발맞춰, <strong>기존의 AJAX 데이터 처리 로직을 포함하여, REST API 등 프론트엔드 및 외부 어플리케이션과의 원활한 데이터 통신(CRUD)을 위한 다양한 장치를 준비</strong>해 왔습니다.</p>
