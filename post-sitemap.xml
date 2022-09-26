@@ -9,7 +9,15 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-start-guide/</loc>
-        <lastmod>2022-05-06T07:55:03.879Z</lastmod>
+        <lastmod>2022-09-26T03:02:14.955Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-plugins-ranking-updated/</loc>
+        <lastmod>2022-03-18T07:31:29.759Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -25,14 +33,6 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-sale-usage/</loc>
-        <lastmod>2022-03-18T07:31:29.759Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-plugins-ranking-updated/</loc>
         <lastmod>2022-03-18T07:31:29.759Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -80,7 +80,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
+        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
         <lastmod>2022-03-18T07:31:29.758Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -96,7 +96,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
+        <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2022-03-18T07:31:29.758Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -152,7 +152,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-disable-right-mouse-click-copy-paste/</loc>
+        <loc>https://news.wp-kr.com/wordpress-child-theme-setting-wptalk/</loc>
         <lastmod>2022-03-18T07:31:29.749Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -160,7 +160,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-child-theme-setting-wptalk/</loc>
+        <loc>https://news.wp-kr.com/wordpress-disable-right-mouse-click-copy-paste/</loc>
         <lastmod>2022-03-18T07:31:29.749Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -192,7 +192,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-119/</loc>
+        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
         <lastmod>2022-03-18T07:31:29.746Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -200,7 +200,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
+        <loc>https://news.wp-kr.com/wordpress-119/</loc>
         <lastmod>2022-03-18T07:31:29.746Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -216,7 +216,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/china-website-loading-speed-slow/</loc>
+        <loc>https://news.wp-kr.com/bluehost-wordpress-hosting-guide/</loc>
         <lastmod>2022-03-18T07:31:29.745Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -224,7 +224,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/bluehost-wordpress-hosting-guide/</loc>
+        <loc>https://news.wp-kr.com/china-website-loading-speed-slow/</loc>
         <lastmod>2022-03-18T07:31:29.745Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
