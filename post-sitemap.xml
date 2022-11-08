@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-plugins-ranking-updated/</loc>
+        <lastmod>2022-11-08T18:20:10.983Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-themes-ranking-updated/</loc>
         <lastmod>2022-11-08T18:17:43.447Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -24,14 +32,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-sale-usage/</loc>
-        <lastmod>2022-03-18T07:31:29.759Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-rest-api-fetch-content/</loc>
         <lastmod>2022-03-18T07:31:29.759Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -40,7 +40,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-plugins-ranking-updated/</loc>
+        <loc>https://news.wp-kr.com/wordpress-sale-usage/</loc>
         <lastmod>2022-03-18T07:31:29.759Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -64,7 +64,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
+        <loc>https://news.wp-kr.com/wordpress-search-results-exclude-posts/</loc>
         <lastmod>2022-03-18T07:31:29.758Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -72,7 +72,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-search-results-exclude-posts/</loc>
+        <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
         <lastmod>2022-03-18T07:31:29.758Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -168,14 +168,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
-        <lastmod>2022-03-18T07:31:29.748Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-cafe24-hosting-auto-install/</loc>
         <lastmod>2022-03-18T07:31:29.748Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -185,6 +177,14 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-child-theme-builder-usage/</loc>
+        <lastmod>2022-03-18T07:31:29.748Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
         <lastmod>2022-03-18T07:31:29.748Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -216,7 +216,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/bluehost-wordpress-hosting-guide/</loc>
+        <loc>https://news.wp-kr.com/china-website-loading-speed-slow/</loc>
         <lastmod>2022-03-18T07:31:29.745Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -224,7 +224,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/china-website-loading-speed-slow/</loc>
+        <loc>https://news.wp-kr.com/bluehost-wordpress-hosting-guide/</loc>
         <lastmod>2022-03-18T07:31:29.745Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
