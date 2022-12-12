@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-start-guide/</loc>
+        <lastmod>2022-12-12T04:59:59.455Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-plugins-ranking-updated/</loc>
         <lastmod>2022-11-08T18:20:10.983Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -18,14 +26,6 @@
     <url>
         <loc>https://news.wp-kr.com/wordpress-themes-ranking-updated/</loc>
         <lastmod>2022-11-08T18:17:43.447Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-start-guide/</loc>
-        <lastmod>2022-09-26T03:02:14.955Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -80,6 +80,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
+        <lastmod>2022-03-18T07:31:29.758Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2022-03-18T07:31:29.758Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -89,14 +97,6 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-must-know-online-tool-sites/</loc>
-        <lastmod>2022-03-18T07:31:29.758Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
         <lastmod>2022-03-18T07:31:29.758Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -192,7 +192,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-119/</loc>
+        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
         <lastmod>2022-03-18T07:31:29.746Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -200,7 +200,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
+        <loc>https://news.wp-kr.com/wordpress-119/</loc>
         <lastmod>2022-03-18T07:31:29.746Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -216,7 +216,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/china-website-loading-speed-slow/</loc>
+        <loc>https://news.wp-kr.com/bluehost-wordpress-hosting-guide/</loc>
         <lastmod>2022-03-18T07:31:29.745Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -224,7 +224,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/bluehost-wordpress-hosting-guide/</loc>
+        <loc>https://news.wp-kr.com/china-website-loading-speed-slow/</loc>
         <lastmod>2022-03-18T07:31:29.745Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
