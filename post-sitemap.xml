@@ -8,16 +8,16 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
-        <lastmod>2024-07-19T19:24:40.597Z</lastmod>
+        <loc>https://news.wp-kr.com/wordpress-start-guide/</loc>
+        <lastmod>2024-07-19T19:26:35.674Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-start-guide/</loc>
-        <lastmod>2023-09-15T12:48:36.978Z</lastmod>
+        <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
+        <lastmod>2024-07-19T19:24:40.597Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -72,14 +72,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
-        <lastmod>2022-03-18T07:31:29.758Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-search-results-exclude-posts/</loc>
         <lastmod>2022-03-18T07:31:29.758Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -88,7 +80,15 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
+        <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
+        <lastmod>2022-03-18T07:31:29.758Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
         <lastmod>2022-03-18T07:31:29.758Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -104,7 +104,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
+        <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
         <lastmod>2022-03-18T07:31:29.758Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -176,7 +176,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-cafe24-hosting-auto-install/</loc>
+        <loc>https://news.wp-kr.com/wordpress-child-theme-builder-usage/</loc>
         <lastmod>2022-03-18T07:31:29.748Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -184,7 +184,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-child-theme-builder-usage/</loc>
+        <loc>https://news.wp-kr.com/wordpress-cafe24-hosting-auto-install/</loc>
         <lastmod>2022-03-18T07:31:29.748Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
