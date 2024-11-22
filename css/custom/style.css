@@ -439,6 +439,14 @@ code {
   }
 }
 
+#wpsalenow-themes-free li .item-price,
+#wpsalenow-themes-sale li .item-price,
+#wpsalenow-plugins-sale li .item-price,
+#wpsalenow-hosting-sale li .item-price {
+	font-size: 1.4rem;
+	color: #666;
+}
+
 ::-webkit-scrollbar-thumb {
     background-color: #ccc;
 }
