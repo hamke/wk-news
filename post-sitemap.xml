@@ -48,7 +48,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-sale-usage/</loc>
+        <loc>https://news.wp-kr.com/wordpress-rest-api-fetch-content/</loc>
         <lastmod>2022-03-18T07:31:29.759Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -56,7 +56,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-rest-api-fetch-content/</loc>
+        <loc>https://news.wp-kr.com/wordpress-sale-usage/</loc>
         <lastmod>2022-03-18T07:31:29.759Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -184,7 +184,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-child-theme-builder-usage/</loc>
+        <loc>https://news.wp-kr.com/wordpress-cafe24-hosting-auto-install/</loc>
         <lastmod>2022-03-18T07:31:29.748Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -192,7 +192,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-cafe24-hosting-auto-install/</loc>
+        <loc>https://news.wp-kr.com/wordpress-child-theme-builder-usage/</loc>
         <lastmod>2022-03-18T07:31:29.748Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
