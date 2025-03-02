@@ -8,16 +8,56 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-start-guide/</loc>
-        <lastmod>2024-11-02T19:00:42.480Z</lastmod>
+        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
+        <lastmod>2025-03-02T14:00:15.387Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
-        <lastmod>2024-07-22T18:50:37.110Z</lastmod>
+        <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
+        <lastmod>2025-03-02T14:00:15.387Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-start-guide/</loc>
+        <lastmod>2025-03-02T14:00:15.387Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
+        <lastmod>2025-03-02T14:00:15.383Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-faq-for-users/</loc>
+        <lastmod>2025-03-02T14:00:15.383Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
+        <lastmod>2025-03-02T14:00:15.379Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-child-theme-builder-usage/</loc>
+        <lastmod>2025-03-02T14:00:15.378Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -34,14 +74,6 @@
     <url>
         <loc>https://news.wp-kr.com/wordpress-themes-ranking-updated/</loc>
         <lastmod>2024-07-19T19:27:50.404Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-analytics-usage/</loc>
-        <lastmod>2024-07-19T19:24:40.597Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -104,31 +136,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
-        <lastmod>2022-03-18T07:31:29.758Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-lesson/</loc>
-        <lastmod>2022-03-18T07:31:29.758Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-install-local-computer-bitnami/</loc>
-        <lastmod>2022-03-18T07:31:29.758Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-faq-for-users/</loc>
         <lastmod>2022-03-18T07:31:29.758Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -184,14 +192,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-child-theme-builder-usage/</loc>
-        <lastmod>2022-03-18T07:31:29.748Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-cafe24-hosting-auto-install/</loc>
         <lastmod>2022-03-18T07:31:29.748Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -208,7 +208,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/themeforest-wordpress-free-month-themes/</loc>
+        <loc>https://news.wp-kr.com/bluehost-wordpress-hosting-guide/</loc>
         <lastmod>2022-03-18T07:31:29.745Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -216,7 +216,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/bluehost-wordpress-hosting-guide/</loc>
+        <loc>https://news.wp-kr.com/themeforest-wordpress-free-month-themes/</loc>
         <lastmod>2022-03-18T07:31:29.745Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
