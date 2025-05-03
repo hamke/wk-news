@@ -8,6 +8,22 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
+        <lastmod>2025-05-03T18:18:37.424Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-start-guide/</loc>
+        <lastmod>2025-05-03T18:18:15.051Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-plugins-ranking-updated/</loc>
         <lastmod>2025-05-02T08:14:43.975Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,14 +89,6 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-install-free-hosting-000webhost/</loc>
-        <lastmod>2025-03-02T14:00:15.387Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-start-guide/</loc>
         <lastmod>2025-03-02T14:00:15.387Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -154,14 +162,6 @@
     <url>
         <loc>https://news.wp-kr.com/wordpress-examples-woocommerce-all-list/</loc>
         <lastmod>2022-03-18T07:31:29.757Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/wordpress-examples-all-list/</loc>
-        <lastmod>2022-03-18T07:31:29.756Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
