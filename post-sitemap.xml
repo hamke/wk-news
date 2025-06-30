@@ -9,7 +9,7 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-start-guide/</loc>
-        <lastmod>2025-06-30T08:19:11.750Z</lastmod>
+        <lastmod>2025-06-30T08:22:57.782Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -64,14 +64,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-search-results-exclude-posts/</loc>
-        <lastmod>2025-05-06T09:41:50.915Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-footer-copyright-current-year-auto-update/</loc>
         <lastmod>2025-05-06T09:41:50.915Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -80,7 +72,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
+        <loc>https://news.wp-kr.com/wordpress-search-results-exclude-posts/</loc>
         <lastmod>2025-05-06T09:41:50.915Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -89,6 +81,14 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-themes-ranking-updated/</loc>
+        <lastmod>2025-05-06T09:41:50.915Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
         <lastmod>2025-05-06T09:41:50.915Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
