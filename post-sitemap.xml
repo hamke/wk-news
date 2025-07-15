@@ -80,7 +80,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-themes-ranking-updated/</loc>
+        <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
         <lastmod>2025-05-06T09:41:50.915Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -88,7 +88,7 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-wp-login-page-redirect-automatically/</loc>
+        <loc>https://news.wp-kr.com/wordpress-themes-ranking-updated/</loc>
         <lastmod>2025-05-06T09:41:50.915Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -208,14 +208,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/bluehost-wordpress-hosting-guide/</loc>
-        <lastmod>2022-03-18T07:31:29.745Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/china-website-loading-speed-slow/</loc>
         <lastmod>2022-03-18T07:31:29.745Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -225,6 +217,14 @@
 
     <url>
         <loc>https://news.wp-kr.com/themeforest-wordpress-free-month-themes/</loc>
+        <lastmod>2022-03-18T07:31:29.745Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/bluehost-wordpress-hosting-guide/</loc>
         <lastmod>2022-03-18T07:31:29.745Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
