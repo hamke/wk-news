@@ -152,14 +152,6 @@
     </url>
 
     <url>
-        <loc>https://news.wp-kr.com/wordpress-cafe24-hosting-auto-install/</loc>
-        <lastmod>2025-08-26T22:57:55.352Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://news.wp-kr.com/wordpress-add-intro-main-page/</loc>
         <lastmod>2025-08-26T22:57:55.352Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -169,6 +161,14 @@
 
     <url>
         <loc>https://news.wp-kr.com/wordpress-child-theme-builder-usage/</loc>
+        <lastmod>2025-08-26T22:57:55.352Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://news.wp-kr.com/wordpress-cafe24-hosting-auto-install/</loc>
         <lastmod>2025-08-26T22:57:55.352Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
