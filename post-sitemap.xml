@@ -8,6 +8,14 @@
     </url>
 
     <url>
+        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
+        <lastmod>2025-09-04T07:00:59.202Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://news.wp-kr.com/wordpress-start-guide/</loc>
         <lastmod>2025-09-01T00:20:00.824Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,14 +90,6 @@
     <url>
         <loc>https://news.wp-kr.com/wordpress-must-know-online-tool-sites/</loc>
         <lastmod>2025-08-26T22:57:55.361Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://news.wp-kr.com/all-wordpress-recommendation-wptalk/</loc>
-        <lastmod>2025-08-26T22:57:55.359Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
