@@ -14,7 +14,7 @@ fetch(themes_envato_free)
       if ( t < wptalk_themes_free_result ) {
         // console.log(wptalk_themes_free_result[t]);
         output_themes_free +=
-        '<li><a href="' + wptalk_themes_free_result[t].url + '" target="_blank" class="item-name">' + wptalk_themes_free_result[t].name + '</a> <span class="item-price">( <s>' + wptalk_themes_free_result[t].price + '</s> -> <b>0.00 USD</b> )</span></li>';
+        '<p><a href="' + wptalk_themes_free_result[t].url + '" target="_blank" class="item-name">' + wptalk_themes_free_result[t].name + '</a> <span class="item-price">( <s>' + wptalk_themes_free_result[t].price + '</s> -> <b>0.00 USD</b> )</span></p>';
       }
     }
     // console.log(output_themes_free);
@@ -35,7 +35,7 @@ fetch(themes_envato_sale)
       if ( t < wptalk_themes_sale_result ) {
         // console.log(wptalk_themes_sale_result[t]);
         output_themes_sale +=
-        '<li><a href="' + wptalk_themes_sale_result[t].url + '" target="_blank" class="item-name">' + wptalk_themes_sale_result[t].name + '</a> <span class="item-price">( <b>' + wptalk_themes_sale_result[t].price_sale + ' USD</b> )</span></li>';
+        '<p><a href="' + wptalk_themes_sale_result[t].url + '" target="_blank" class="item-name">' + wptalk_themes_sale_result[t].name + '</a> <span class="item-price">( <b>' + wptalk_themes_sale_result[t].price_sale + ' USD</b> )</span></p>';
       }
     }
     // console.log(output_themes_sale);
@@ -56,7 +56,7 @@ fetch(plugins_envato_sale)
       if ( t < wptalk_plugins_sale_result ) {
         // console.log(wptalk_plugins_sale_result[t]);
         output_plugins_sale +=
-        '<li><a href="' + wptalk_plugins_sale_result[t].url + '" target="_blank" class="item-name">' + wptalk_plugins_sale_result[t].name + '</a> <span class="item-price">( <b>' + wptalk_plugins_sale_result[t].price_sale + ' USD</b> )</span></li>';
+        '<p><a href="' + wptalk_plugins_sale_result[t].url + '" target="_blank" class="item-name">' + wptalk_plugins_sale_result[t].name + '</a> <span class="item-price">( <b>' + wptalk_plugins_sale_result[t].price_sale + ' USD</b> )</span></p>';
       }
     }
     // console.log(output_plugins_sale);
@@ -77,7 +77,7 @@ fetch(hosting_api_sale)
       if ( t < wptalk_hosting_sale_result ) {
         // console.log(wptalk_hosting_sale_result[t]);
         output_hosting_sale +=
-        '<li><a href="' + wptalk_hosting_sale_result[t].url + '" target="_blank" class="item-name">' + wptalk_hosting_sale_result[t].name + ' - ' + wptalk_hosting_sale_result[t].description + '</a></li>';
+        '<p><a href="' + wptalk_hosting_sale_result[t].url + '" target="_blank" class="item-name">' + wptalk_hosting_sale_result[t].name + ' - ' + wptalk_hosting_sale_result[t].description + '</a></p>';
       }
     }
     // console.log(output_hosting_sale);
